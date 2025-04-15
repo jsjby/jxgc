@@ -11,3 +11,7 @@
 ## 香港中文大学
 
 【报名截止：4.22】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)
+
+##  怀柔实验室
+
+【报名截止：5.31 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
