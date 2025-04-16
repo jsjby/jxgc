@@ -1,5 +1,9 @@
 # 2025年机械自动化类夏令营和预推免通知
 
+## 清华大学
+
+【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
+
 ## 中国科学院
 
 【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)
