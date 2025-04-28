@@ -2,6 +2,8 @@
 
 ## 清华大学
 
+【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
+
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
 ## 上海交通大学
@@ -17,6 +19,10 @@
 【报名截止：6.20】[上海技术物理研究所](https://sitp.cas.cn/yjs/zsxx/ssszs/202504/t20250425_7614304.html)
 
 ## 南方科技大学
+
+【报名截止：6.18】[生物医学工程系](https://mp.weixin.qq.com/s/ZENQ4XITj3XDnmb5Y4FiDA)
+
+【报名截止：6.16 23:00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)
 
 【报名截止：6.16 23:00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)
 
