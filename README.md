@@ -1,5 +1,8 @@
 # 2025年机械自动化类夏令营和预推免通知
 
+# 关注最新网站，每天更新夏令营通知： https://baoyanxinxi.com
+
+
 ## 清华大学
 
 【报名截止：N/A】[智能产业研究院](https://mp.weixin.qq.com/s/8hYxusP2fwZKr0kbFVOa3A)
