@@ -1,4 +1,4 @@
-# 2025年机械自动化类夏令营和预推免通知
+# 2025年机械自动化能源类夏令营和预推免通知
 
 # 关注最新网站，每天更新夏令营通知： https://baoyanxinxi.com
 
@@ -12,6 +12,8 @@
 【报名截止：6.15】[神经调控国家工程研究中心](https://mp.weixin.qq.com/s/0gL08oY9xNMTZF98aFYkDw)
 
 【报名截止：6.6 17:00】[车辆与运载学院](https://mp.weixin.qq.com/s/8lhVddNzSgnY6U7o5hZEww)
+
+【报名截止：5.30 17：00】[建筑环境与能源应用工程专业](https://mp.weixin.qq.com/s/BnLNQe4YoqBGQcZNT-7XiQ)
 
 【报名截止：5.22 10:00】[航空发动机研究院](https://mp.weixin.qq.com/s/jC1YPTcfhGwyPqY8AlxM-g)
 
@@ -61,6 +63,8 @@
 
 【报名截止：6.7】[机电工程学院](https://sme.hit.edu.cn/2025/0506/c17968a369428/page.htm)
 
+【报名截止：6.7 17:00】[（深圳）理学院](http://ssc.hitsz.edu.cn/info/1051/2771.htm)
+
 【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)
 
 ## 西安交通大学
@@ -84,6 +88,10 @@
 ## 同济大学
 
 【报名截止：6.16 17:00】[汽车学院](https://auto.tongji.edu.cn/info/1013/11134.htm)
+
+【报名截止：6.15 22：00】[城市交通研究院](https://umi.tongji.edu.cn/info/1070/2117.htm)
+
+【报名截止：6.15 22：00】[交通学院](https://tjjt.tongji.edu.cn/info/1561/11360.htm)
 
 【报名截止：6.12 17:00】[航空航天与力学学院](https://aero-mech.tongji.edu.cn/5b/da/c22245a351194/page.htm)
 
@@ -132,6 +140,10 @@
 【报名截止：6.20 17：00】[小卫星创新研究院](https://mp.weixin.qq.com/s/mt6QVeR0n-NtD4GNFSMMJA)
 
 【报名截止：6.18】[大连化学物理研究所](https://mp.weixin.qq.com/s/Q0sdKctC7Sm9MF1M-y3Ikg)
+
+【报名截止：6.15】[国家天文台-暑期](https://www.nao.cas.cn/jypy/jy/202505/t20250516_7655042.html)
+
+【报名截止：6.15】[国家天文台-夏令营](https://www.nao.cas.cn/jypy/jy/202505/t20250516_7655040.html)
 
 【报名截止：6.15】[青岛生物能源与过程研究所所](https://mp.weixin.qq.com/s/cFLDvppcXWl-Wm39geM5WQ)
 
@@ -192,6 +204,10 @@
 ## 中国矿业大学
 
 【报名截止：6.6】[材料与物理学院](https://smsp.cumt.edu.cn/66/41/c18894a681537/page.htm)
+
+## 东北师范大学
+
+【报名截止：6.24 10:00】[物理学院](https://www.phy.nenu.edu.cn/info/1051/5089.htm)
 
 ## 北京石墨烯研究院
 
