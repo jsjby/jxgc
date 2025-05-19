@@ -19,7 +19,7 @@
 
 【报名截止：5.22 10:00】[航空发动机研究院](https://mp.weixin.qq.com/s/jC1YPTcfhGwyPqY8AlxM-g)
 
-【报名截止：5.18 17:00】[建筑学院建筑环境与能源应用工程专业](https://mp.weixin.qq.com/s/N8gIw14lt07W85L4qNcFWw)
+~~【报名截止：5.18 17:00】[建筑学院建筑环境与能源应用工程专业](https://mp.weixin.qq.com/s/N8gIw14lt07W85L4qNcFWw)~~
 
 ## 北京大学
 
@@ -51,6 +51,8 @@
 
 【报名截止：6.30 17:00】[仪器科学与工程学院](https://ise.hit.edu.cn/2025/0509/c16271a369681/page.htm)
 
+【报名截止：：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)
+
 【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)
 
 【报名截止：6.7】[能源科学与工程学院](https://power.hit.edu.cn/2025/0515/c5714a369993/page.htm)
@@ -71,7 +73,7 @@
 
 ## 西安交通大学
 
-【报名截止：<span class="deadline" data-deadline="2025-05-20T23:59:59">Loading...</span>】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)
+~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
 ## 天津大学
 
@@ -94,6 +96,8 @@
 【报名截止：6.15 22：00】[城市交通研究院](https://umi.tongji.edu.cn/info/1070/2117.htm)
 
 【报名截止：6.15 22：00】[交通学院](https://tjjt.tongji.edu.cn/info/1561/11360.htm)
+
+【报名截止：6.14 17：00】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/62/2c/c17827a352812/page.htm)
 
 【报名截止：6.12 17:00】[航空航天与力学学院](https://aero-mech.tongji.edu.cn/5b/da/c22245a351194/page.htm)
 
@@ -151,13 +155,17 @@
 
 【报名截止：6.13 8：00】[地质与地球物理研究所](https://igg.cas.cn/jyyd/jy_upcoming/202505/t20250507_7643035.html)
 
+【报名截止：6.10】[西安光学精密机械研究所](https://mp.weixin.qq.com/s/51lRjB61Vz1yTPvXVpuwyg)
+
 【报名截止：6.10】[山西煤炭化学研究所](https://edu.sxicc.ac.cn/zsgl/sszs/202505/t20250507_833400.html)
 
 【报名截止：6.10】[光电技术研究所-第一期](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51431.html)
 
+【报名截止：6.5】[西安光学精密机械研究所-第一期](https://mp.weixin.qq.com/s/F1cF-GDdXrKsmwetsTGERg)
+
 ~~【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)~~
 
-~~【报名截止：<span class="deadline" data-deadline="2025-05-09T23:59:59">Loading...</span>】[上海光学精密机械研究所](https://mp.weixin.qq.com/s/sMAgQwxFaKwQb-wycRugcw)~~
+~~【报名截止：5.9】[上海光学精密机械研究所](https://mp.weixin.qq.com/s/sMAgQwxFaKwQb-wycRugcw)~~
 
 ## 中国科学院大学
 
@@ -167,7 +175,7 @@
 
 【报名截止：6.15 14：00】[杭高院数理学院](http://hias.ucas.ac.cn/mathphys/info/1166/1488.htm)
 
-【报名截止：6。9】[杭州高等研究院物理与光电工程学院 ](http://hias.ucas.ac.cn/wlgd/info/1020/1581.htm)
+【报名截止：6.9】[杭州高等研究院物理与光电工程学院 ](http://hias.ucas.ac.cn/wlgd/info/1020/1581.htm)
 
 ## 上海科技大学
 
