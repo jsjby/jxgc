@@ -257,15 +257,19 @@
 
 【报名截止：5.31 17：00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
 
+##  中国工程物理研究院
+
+【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)
+
 ## 香港科技大学
 
 【报名截止：N/A】[（广州）智能制造博士项目](https://mp.weixin.qq.com/s/mXSzUAgvS27tT1qg8d88Eg)
 
-【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)
+~~【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)~~
 
 ## 香港中文大学
 
-【报名截止：5.25】[（深圳）理工学院](https://mp.weixin.qq.com/s/EWIx0_usoP4pyU2iNexk8Q)
+~~【报名截止：5.25】[（深圳）理工学院](https://mp.weixin.qq.com/s/EWIx0_usoP4pyU2iNexk8Q)~~
 
 ~~【报名截止：<span class="deadline" data-deadline="2025-04-22T23:59:59">Loading...</span>】[工程学院](https://hkpfs.erg.cuhk.edu.hk/about-us)~~
 
