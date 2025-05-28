@@ -83,6 +83,8 @@
 
 ## 西安交通大学
 
+【报名截止：6.10】[自动化科学与工程学院](https://automation.xjtu.edu.cn/info/1009/2253.htm)
+
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
 ## 天津大学
@@ -189,6 +191,8 @@
 
 【报名截止：6。20】[工程科学学院](https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2684-2025-18)
 
+【报名截止：6.15】[杭高院智能科学与技术学院 ](http://hias.ucas.ac.cn/znkxyjs/info/1095/1821.htm)
+
 【报名截止：6.15 14：00】[杭高院数理学院](http://hias.ucas.ac.cn/mathphys/info/1166/1488.htm)
 
 【报名截止：6.9】[杭州高等研究院物理与光电工程学院 ](http://hias.ucas.ac.cn/wlgd/info/1020/1581.htm)
@@ -206,6 +210,8 @@
 【报名截止：6.18】[创新创意设计学院](https://mp.weixin.qq.com/s/07H7Aun7ic0qpdDm8auIyA)
 
 【报名截止：6.16 23：00】[系统设计与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=464)
+
+【报名截止：6.16 23:00】[自动化与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=471)
 
 【报名截止：6.16 23：00】[机械与能源工程系](https://mp.weixin.qq.com/s/6tgnc8l5DFsL63xqppK8Ew)
 
