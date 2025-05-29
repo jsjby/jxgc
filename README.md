@@ -47,6 +47,8 @@
 
 【报名截止：6.20 12：00】[生物医学工程与仪器科学学院](http://www.cbeis.zju.edu.cn/2025/0524/c63837a3054767/page.htm)
 
+【报名截止：6.18】[材料学院](https://mse.zju.edu.cn/2025/0528/c51056a3056386/page.htm)
+
 【报名截止：6.16】[集成电路学院](https://ic.zju.edu.cn/2025/0522/c54011a3054130/page.htm)
 
 【报名截止：6.15】[海洋学院](http://oc.zju.edu.cn/2025/0523/c52420a3054699/page.htm)
@@ -85,6 +87,8 @@
 
 【报名截止：6.20】[航天航空学院 复杂服役环境重大装备结构强度与寿命全国重点实验室](https://sae.xjtu.edu.cn/info/1093/8800.htm)
 
+【报名截止：6.17】[生命科学与技术学院](https://slst.xjtu.edu.cn/info/1098/9490.htm)
+
 【报名截止：6.10】[自动化科学与工程学院](https://automation.xjtu.edu.cn/info/1009/2253.htm)
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
@@ -97,7 +101,7 @@
 
 ## 厦门大学
 
-【报名截止：5.28】[化学化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)
+~~【报名截止：5.28】[化学化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)~~
 
 ## 华中科技大学
 
@@ -118,6 +122,10 @@
 【报名截止：6.6 11：00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)
 
 【报名截止：6.5 12：00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5101.htm)
+
+## 中山大学
+
+【报名截止：6.20 21：00】[材料学院](https://materials.sysu.edu.cn/article/721)
 
 ## 中国科学院
 
@@ -190,6 +198,8 @@
 ## 中国科学院大学
 
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/6496.htm)
+
+【报名截止：6.20】[南京学院](https://njc.ucas.ac.cn/info/1088/3751.htm)
 
 【报名截止：6。20】[工程科学学院](https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2684-2025-18)
 
@@ -274,6 +284,8 @@
 ## 香港科技大学
 
 【报名截止：N/A】[（广州）智能制造博士项目](https://mp.weixin.qq.com/s/mXSzUAgvS27tT1qg8d88Eg)
+
+【报名截止：6.12】[（广州）智能交通学域](https://mp.weixin.qq.com/s/yUW91BkAUbSpD6ZF7h2e0g)
 
 ~~【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)~~
 
