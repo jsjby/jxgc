@@ -145,6 +145,8 @@
 
 【报名截止：6.20 21：00】[材料学院](https://materials.sysu.edu.cn/article/721)
 
+【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
+
 ## 中国科学院
 
 【报名截止：N/A】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/ao7AJdpYqnrMo8LM0jnElw)
@@ -196,6 +198,8 @@
 【报名截止：6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202505/t20250508_7645952.html)
 
 【报名截止：6.20 17：00】[小卫星创新研究院](https://mp.weixin.qq.com/s/mt6QVeR0n-NtD4GNFSMMJA)
+
+【报名截止：6.18】[大连化物所质谱与快速检测研究中心](https://mp.weixin.qq.com/s/TyRutYauSu9gvogm3S5jiA)
 
 【报名截止：6.18】[大连化学物理研究所](https://mp.weixin.qq.com/s/Q0sdKctC7Sm9MF1M-y3Ikg)
 
@@ -308,6 +312,10 @@
 【报名截止：6.20】[北京应用物理与计算数学研究所](https://mp.weixin.qq.com/s/tPfmKdfVAn8xnhGPzpBW-g)
 
 【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)
+
+## 中国航天科工集团
+
+【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)
 
 ## 香港科技大学
 
