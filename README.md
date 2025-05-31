@@ -95,6 +95,8 @@
 
 ## 西安交通大学
 
+【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
+
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
 
 【报名截止：6.20】[航天航空学院 复杂服役环境重大装备结构强度与寿命全国重点实验室](https://sae.xjtu.edu.cn/info/1093/8800.htm)
@@ -104,6 +106,10 @@
 【报名截止：6.10】[自动化科学与工程学院](https://automation.xjtu.edu.cn/info/1009/2253.htm)
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
+
+## 北京师范大学
+
+【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)
 
 ## 天津大学
 
@@ -153,11 +159,19 @@
 
 【报名截止：7.10】[光电技术研究所-第二期](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51431.html)
 
+【报名截止：7.3】[沈阳自动化研究所](https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202505/t20250530_7794564.html)
+
 【报名截止：6.30】[精密测量科学与技术创新研究院](https://apm.cas.cn/yjsjy/kjrh/dxsxly/202505/t20250506_7642169.html)
 
 【报名截止：6.30】[长春光学精密机械与物理研究所](https://yjs.ciomp.ac.cn/news_show.aspx?id=1911)
 
 【报名截止：6.27】[近代物理研究所](https://imp.cas.cn/edu/zsyds/zsdt/zs/202505/t20250512_7650389.html)
+
+【报名截止：6.25】[国家空间科学中心](https://nssc.cas.cn/yjsb/zsxx/xly/202505/t20250530_7794257.html)
+
+【报名截止：6.25】[理化所](https://mp.weixin.qq.com/s/zChmOnpGmo8S5a_vTmYs-g)
+
+【报名截止：6.25】[深圳先进技术研究院](https://www.siat.ac.cn/jyjx/zsxx/xly/202505/t20250529_7793841.html)
 
 【报名截止：6.25】[福建物质结构研究所](https://fjirsm.cas.cn/yjsjy/zsxx/202504/t20250417_7602139.html)
 
@@ -288,6 +302,8 @@
 【报名截止：5.31 17：00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
 
 ##  中国工程物理研究院
+
+【报名截止：6.26】[北京计算科学研究中心](https://mp.weixin.qq.com/s/pW5P07imjsq79R5ezqR0rA)
 
 【报名截止：6.20】[北京应用物理与计算数学研究所](https://mp.weixin.qq.com/s/tPfmKdfVAn8xnhGPzpBW-g)
 
