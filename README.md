@@ -99,6 +99,8 @@
 
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
 
+【报名截止：6.25 21：00】[化学工程与技术学院](https://clet.xjtu.edu.cn/info/1197/8052.htm)
+
 【报名截止：6.20】[航天航空学院 复杂服役环境重大装备结构强度与寿命全国重点实验室](https://sae.xjtu.edu.cn/info/1093/8800.htm)
 
 【报名截止：6.17】[生命科学与技术学院](https://slst.xjtu.edu.cn/info/1098/9490.htm)
@@ -108,6 +110,8 @@
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
 ## 北京师范大学
+
+【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)
 
 【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)
 
