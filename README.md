@@ -107,13 +107,21 @@
 
 【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
 
+【报名截止：6.30 10：00】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1009/4433.htm)
+
+【报名截止：6.30 10：00】[前沿科学技术学科交叉中心](https://fist.xjtu.edu.cn/info/1013/4434.htm)
+
 【报名截止：6.26】[国家储能平台（中心）](https://gjcnpt.xjtu.edu.cn/info/1058/2022.htm)
 
 【报名截止：6.25 21：00】[化学工程与技术学院](https://clet.xjtu.edu.cn/info/1197/8052.htm)
 
+【报名截止：6.23 18：00】[机械工程学院](https://mec.xjtu.edu.cn/info/1296/15281.htm)
+
 【报名截止：6.20】[航天航空学院 复杂服役环境重大装备结构强度与寿命全国重点实验室](https://sae.xjtu.edu.cn/info/1093/8800.htm)
 
 【报名截止：6.17】[生命科学与技术学院](https://slst.xjtu.edu.cn/info/1098/9490.htm)
+
+【报名截止：6.15】[能源与动力工程学院](https://epe.xjtu.edu.cn/info/1483/4723.htm)
 
 【报名截止：6.15】[仪器科学与技术学院](https://ist.xjtu.edu.cn/info/1015/2244.htm)
 
@@ -163,6 +171,10 @@
 
 【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
 
+## 吉林大学
+
+【报名截止：6.15】[新能源与环境学院](https://cer.jlu.edu.cn/info/1105/9266.htm)
+
 ## 中国科学院
 
 【报名截止：N/A】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/ao7AJdpYqnrMo8LM0jnElw)
@@ -182,6 +194,8 @@
 【报名截止：6.30】[精密测量科学与技术创新研究院](https://apm.cas.cn/yjsjy/kjrh/dxsxly/202505/t20250506_7642169.html)
 
 【报名截止：6.30】[长春光学精密机械与物理研究所](https://yjs.ciomp.ac.cn/news_show.aspx?id=1911)
+
+【报名截止：6.27】[深海科学与工程研究所](https://idsse.cas.cn/yjsjy2015/yjsjy_tzgg/202506/t20250603_7795814.html)
 
 【报名截止：6.27】[近代物理研究所](https://imp.cas.cn/edu/zsyds/zsdt/zs/202505/t20250512_7650389.html)
 
@@ -302,6 +316,12 @@
 ## 中国矿业大学
 
 【报名截止：6.6】[材料与物理学院](https://smsp.cumt.edu.cn/66/41/c18894a681537/page.htm)
+
+## 中国地质大学
+
+【报名截止：6.20】[（武汉）资源学院](https://zyxy.cug.edu.cn/info/1036/12399.htm)
+
+【报名截止：6.20】[（武汉）新能源学院](https://energy.cug.edu.cn/info/1014/3919.htm)
 
 ## 东北师范大学
 
