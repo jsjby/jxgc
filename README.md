@@ -29,9 +29,9 @@
 
 【报名截止：6.26 17:00】[新材料学院](https://mp.weixin.qq.com/s/k7J5hdVxYEgVpsHsp7IHOg)
 
-报名截止：6.5 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/13490.html)
+~~【报名截止：6.5 8:30】[工学院](https://www.coe.pku.edu.cn/graduate/13490.html)~~
 
-报名截止：6.5 8:30】[工学院院-机械专业](https://www.coe.pku.edu.cn/announcements/college/13498.html)
+~~【报名截止：6.5 8:30】[工学院院-机械专业](https://www.coe.pku.edu.cn/announcements/college/13498.html)~~
 
 ## 上海交通大学
 
@@ -163,7 +163,7 @@
 
 【报名截止：6.6 11：00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)
 
-【报名截止：6.5 12：00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5101.htm)
+~~【报名截止：6.5 12：00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5101.htm)~~
 
 ## 中山大学
 
@@ -251,7 +251,7 @@
 
 【报名截止：6.10】[光电技术研究所-第一期](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51431.html)
 
-【报名截止：6.5】[西安光学精密机械研究所-第一期](https://mp.weixin.qq.com/s/F1cF-GDdXrKsmwetsTGERg)
+~~【报名截止：6.5】[西安光学精密机械研究所-第一期](https://mp.weixin.qq.com/s/F1cF-GDdXrKsmwetsTGERg)~~
 
 ~~【报名截止：5.16】[空天信息创新研究院](https://mp.weixin.qq.com/s/gPA9DoFlXGLyxR0FYvkSTQ)~~
 
@@ -341,7 +341,7 @@
 
 ## 怀柔实验室
 
-【报名截止：6.3 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)
+~~【报名截止：6.3 17:00】[能源科技与前沿技术](https://mp.weixin.qq.com/s/wCHaQkxTCo_CQU_diLw60Q)~~
 
 ##  中国工程物理研究院
 
