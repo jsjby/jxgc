@@ -97,25 +97,25 @@
 
 【报名截止：6.30 17:00】[仪器科学与工程学院](https://ise.hit.edu.cn/2025/0509/c16271a369681/page.htm)
 
-【报名截止：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)
+~~【报名截止：6.7】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1421)~~
 
-【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)
+~~【报名截止：6.7】[哈尔滨工业大学（威海）](https://mp.weixin.qq.com/s/mca57gNQv_7Yx9QuffQQgg?poc_token=HDH4GmijhM1l-_1YFCsieOdDyC2lA_0jRJJkk8lb)~~
 
-【报名截止：6.7】[能源科学与工程学院](https://power.hit.edu.cn/2025/0515/c5714a369993/page.htm)
+~~【报名截止：6.7】[能源科学与工程学院](https://power.hit.edu.cn/2025/0515/c5714a369993/page.htm)~~
 
-【报名截止：6.7】[（深圳）材料科学与工程学院](http://mse.hitsz.edu.cn/info/1010/3115.htm)
+~~【报名截止：6.7】[（深圳）材料科学与工程学院](http://mse.hitsz.edu.cn/info/1010/3115.htm)~~
 
-【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm)
+~~【报名截止：6.7】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0510/c17101a369720/page.htm)~~
 
-【报名截止：6.7】[前沿学部医工学院](http://bme.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2952)
+~~【报名截止：6.7】[前沿学部医工学院](http://bme.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2952)~~
 
-【报名截止：6.7】[航天学院](https://sa.hit.edu.cn/2025/0508/c6582a369658/page.htm)
+~~【报名截止：6.7】[航天学院](https://sa.hit.edu.cn/2025/0508/c6582a369658/page.htm)~~
 
-【报名截止：6.7】[机电工程学院](https://sme.hit.edu.cn/2025/0506/c17968a369428/page.htm)
+~~【报名截止：6.7】[机电工程学院](https://sme.hit.edu.cn/2025/0506/c17968a369428/page.htm)~~
 
-【报名截止：6.7 17:00】[（深圳）理学院](http://ssc.hitsz.edu.cn/info/1051/2771.htm)
+~~【报名截止：6.7 17:00】[（深圳）理学院](http://ssc.hitsz.edu.cn/info/1051/2771.htm)~~
 
-【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)
+~~【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)~~
 
 ## 西安交通大学
 
@@ -142,6 +142,10 @@
 【报名截止：6.10】[自动化科学与工程学院](https://automation.xjtu.edu.cn/info/1009/2253.htm)
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
+
+## 北京航空航天大学
+
+【报名截止：6.15 12：00】[宇航学院](http://www.sa.buaa.edu.cn/info/1051/11332.htm)
 
 ## 北京师范大学
 
@@ -170,6 +174,8 @@
 【报名截止：6.20 23：00】[能源与动力工程学院](https://energy.hust.edu.cn/info/1162/6879.htm)
 
 【报名截止：6.19】[中欧清洁与可再生能源学院](https://icare.hust.edu.cn/info/1031/8814.htm)
+
+【报名截止：6.17 23：00】[生命科学与技术学院](https://life.hust.edu.cn/info/1855/11657.htm)
 
 【报名截止：6.16】[材料科学与工程学院](https://mat.hust.edu.cn/info/1137/8292.htm)
 
@@ -370,6 +376,10 @@
 ## 上海理工大学
 
 【报名截止：6。24 17：00】[机械工程学院](https://me.usst.edu.cn/2025/0606/c12292a342784/page.htm)
+
+## 三峡大学
+
+【报名截止：6.23】[电气与新能源学院](https://newee.ctgu.edu.cn/info/1073/28132.htm)
 
 ## 北京石墨烯研究院
 
