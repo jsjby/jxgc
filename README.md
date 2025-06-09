@@ -19,7 +19,7 @@
 
 【报名截止：6.10】[工业工程系](https://www.ie.tsinghua.edu.cn/info/1071/4000.htm)
 
-【报名截止：6.9 17：00】[精密仪器系](https://mp.weixin.qq.com/s/I90c35MwUNW0uE8KsLhW3Q)
+~~【报名截止：6.9 17：00】[精密仪器系](https://mp.weixin.qq.com/s/I90c35MwUNW0uE8KsLhW3Q)~~
 
 ~~【报名截止：6.6 17:00】[车辆与运载学院](https://mp.weixin.qq.com/s/8lhVddNzSgnY6U7o5hZEww)~~
 
@@ -187,6 +187,8 @@
 
 ## 同济大学
 
+【报名截止：6.23 12：00】[设计创意学院 / 上海国际设计创新学院 / 中意工程创新学院](https://tjdi.tongji.edu.cn/NewsDetail.do?ID=5838&lang=)
+
 【报名截止：6.16 17:00】[汽车学院](https://auto.tongji.edu.cn/info/1013/11134.htm)
 
 【报名截止：6.15 22：00】[城市交通研究院](https://umi.tongji.edu.cn/info/1070/2117.htm)
@@ -217,7 +219,7 @@
 
 【报名截止：6.15】[新能源与环境学院](https://cer.jlu.edu.cn/info/1105/9266.htm)
 
-【报名截止：6.8 18：00】[机械与航空航天工程学院](https://mae.jlu.edu.cn/info/1010/24277.htm)
+~~【报名截止：6.8 18：00】[机械与航空航天工程学院](https://mae.jlu.edu.cn/info/1010/24277.htm)~~
 
 ## 中国科学院
 
@@ -313,7 +315,7 @@
 
 【报名截止：6.15 14：00】[杭高院数理学院](http://hias.ucas.ac.cn/mathphys/info/1166/1488.htm)
 
-【报名截止：6.9】[杭州高等研究院物理与光电工程学院 ](http://hias.ucas.ac.cn/wlgd/info/1020/1581.htm)
+~~【报名截止：6.9】[杭州高等研究院物理与光电工程学院 ](http://hias.ucas.ac.cn/wlgd/info/1020/1581.htm)~~
 
 ## 上海科技大学
 
@@ -337,7 +339,7 @@
 
 【报名截止：6.15】[材料科学与工程系](https://mse.sustech.edu.cn/zh/News/Details/943)
 
-【报名截止：6.9 9：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)
+~~【报名截止：6.9 9：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)~~
 
 ## 西湖大学
 
