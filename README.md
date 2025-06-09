@@ -5,6 +5,8 @@
 
 ## 清华大学
 
+> 【报名截止：7.28 12：00】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
@@ -202,6 +204,8 @@
 ## 中山大学
 
 【报名截止：6.22】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1231)
+
+【报名截止：6.22 16：00】[先进制造学院](https://mp.weixin.qq.com/s/SmUparz9cWV-jdH4nPLX4A)
 
 【报名截止：6.20】[先进能源学院](https://ae.sysu.edu.cn/article/457)
 
