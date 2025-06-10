@@ -73,6 +73,10 @@
 
 ~~【报名截止：5.30】[溥渊未来技术学院-脑的真相与未来健康](https://mp.weixin.qq.com/s/BGYPyKPa0lt81EFMXKZL9g)~~
 
+## 复旦大学
+
+【报名截止：6.25 17：00】[智能材料与未来能源创新学院](https://icome.fudan.edu.cn/3c/ce/c49262a736462/page.htm)
+
 ## 浙江大学
 
 【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)
@@ -120,6 +124,8 @@
 ~~【报名截止：6.7 17:00】[（深圳）空天科技学院](http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2841)~~
 
 ## 西安交通大学
+
+【报名截止：7.13】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
 
 【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
 
