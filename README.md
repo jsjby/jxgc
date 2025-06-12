@@ -157,6 +157,10 @@
 
 ~~【报名截止：5.20】[“挑战杯-国创赛](https://mp.weixin.qq.com/s/b_caVtIyAV4G1AQ8-tAkQA)~~
 
+## 中国人民大学
+
+> 【报名截止：7.20 17：00】[中国人民大学招生信息](https://pgs.ruc.edu.cn/info/1062/3447.htm)
+
 ## 北京航空航天大学
 
 【报名截止：6.15 12：00】[宇航学院](http://www.sa.buaa.edu.cn/info/1051/11332.htm)
@@ -203,6 +207,8 @@
 
 ## 同济大学
 
+【报名截止：6.23 12：00】[中意工程创新学院](https://see.tongji.edu.cn/info/1147/14001.htm)
+
 【报名截止：6.23 12：00】[设计创意学院 / 上海国际设计创新学院 / 中意工程创新学院](https://tjdi.tongji.edu.cn/NewsDetail.do?ID=5838&lang=)
 
 【报名截止：6.16 17:00】[汽车学院](https://auto.tongji.edu.cn/info/1013/11134.htm)
@@ -230,6 +236,16 @@
 【报名截止：6.20 21：00】[材料学院](https://materials.sysu.edu.cn/article/721)
 
 【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
+
+## 电子科技大学
+
+> [电子科技大学夏令营招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)
+
+【报名截止：7.6】[自动化工程学院](https://www.auto.uestc.edu.cn/info/1045/7563.htm)
+
+## 华东师范大学
+
+【报名截止：7.1 17：00】[药学院](https://pharm.ecnu.edu.cn/b0/56/c43776a700502/page.htm)
 
 ## 吉林大学
 
@@ -408,6 +424,14 @@
 ## 三峡大学
 
 【报名截止：6.23】[电气与新能源学院](https://newee.ctgu.edu.cn/info/1073/28132.htm)
+
+## 西南交通大学
+
+【报名截止：6.26】[机械工程学院](https://sme.swjtu.edu.cn/info/1098/58751.htm)
+
+## 长江大学
+
+【报名截止：7.1】[电子信息与电气工程学院](https://dxxy.yangtzeu.edu.cn/info/1055/4805.htm)
 
 ## 北京石墨烯研究院
 
