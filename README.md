@@ -45,6 +45,8 @@
 
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
 
+【报名截止：7.6 17：00】[溥渊未来技术学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
+
 【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[自动化与感知学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
@@ -75,6 +77,8 @@
 
 ## 复旦大学
 
+【报名截止：6.25 17：00】[智能机器人与先进制造创新学院](https://ciram.fudan.edu.cn/41/72/c48843a737650/page.htm)
+
 【报名截止：6.25 17：00】[智能材料与未来能源创新学院](https://icome.fudan.edu.cn/3c/ce/c49262a736462/page.htm)
 
 ## 南京大学
@@ -85,7 +89,11 @@
 
 ## 浙江大学
 
+【报名截止：N/A】[长三角智慧绿洲创新中心](https://mp.weixin.qq.com/s/LYDIXdoFcAaa_SDnsX9sMQ)
+
 【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)
+
+【报名截止：6.25】[能源工程学院](http://www.doe.zju.edu.cn/2025/0613/c74392a3061281/page.htm)
 
 【报名截止：6.22】[软件学院](http://www.cst.zju.edu.cn/2025/0606/c32178a3059270/page.htm)
 
@@ -187,6 +195,8 @@
 
 ## 华中科技大学
 
+【报名截止：7.3】[航空航天学院](https://ae.hust.edu.cn/info/1079/3724.htm)
+
 【报名截止：6.23 17：00】[武汉光电国家研究中心](https://mp.weixin.qq.com/s/JUF5S6VvyleP2sFlOkJMyw)
 
 【报名截止：：6.22】[船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3871.htm)
@@ -219,13 +229,15 @@
 
 【报名截止：6.14 17：00】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/62/2c/c17827a352812/page.htm)
 
-【报名截止：6.12 17:00】[航空航天与力学学院](https://aero-mech.tongji.edu.cn/5b/da/c22245a351194/page.htm)
+~~【报名截止：6.12 17:00】[航空航天与力学学院](https://aero-mech.tongji.edu.cn/5b/da/c22245a351194/page.htm)~~
 
 ~~【报名截止：6.6 11：00】[国家卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3921.htm)~~
 
 ~~【报名截止：6.5 12：00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5101.htm)~~
 
 ## 中山大学
+
+【报名截止：7.10】[智能工程学院](https://ise.sysu.edu.cn/article/1522)
 
 【报名截止：6.22】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1231)
 
@@ -235,7 +247,7 @@
 
 【报名截止：6.20 21：00】[材料学院](https://materials.sysu.edu.cn/article/721)
 
-【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)
+~~【报名截止：6.12】[人工智能学院](https://sai.sysu.edu.cn/article/585)~~
 
 ## 电子科技大学
 
@@ -249,9 +261,16 @@
 
 ## 吉林大学
 
+
+【报名截止：6.20 9：00】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/8121.htm)
+
 【报名截止：6.15】[新能源与环境学院](https://cer.jlu.edu.cn/info/1105/9266.htm)
 
 ~~【报名截止：6.8 18：00】[机械与航空航天工程学院](https://mae.jlu.edu.cn/info/1010/24277.htm)~~
+
+## 兰州大学
+
+【报名截止：6.20 18：00】[核科学与技术学院](https://mp.weixin.qq.com/s/M70LDQifVU0rckJfVe_wrQ)
 
 ## 中国科学院
 
@@ -323,7 +342,7 @@
 
 【报名截止：6.15】[青岛生物能源与过程研究所所](https://mp.weixin.qq.com/s/cFLDvppcXWl-Wm39geM5WQ)
 
-【报名截止：6.13 8：00】[地质与地球物理研究所](https://igg.cas.cn/jyyd/jy_upcoming/202505/t20250507_7643035.html)
+~~【报名截止：6.13 8：00】[地质与地球物理研究所](https://igg.cas.cn/jyyd/jy_upcoming/202505/t20250507_7643035.html)~~
 
 ~~【报名截止：6.10】[西安光学精密机械研究所](https://mp.weixin.qq.com/s/51lRjB61Vz1yTPvXVpuwyg)~~
 
@@ -381,7 +400,7 @@
 
 【报名截止：N/A】[工学院人工智能与科学仿真发现实验室](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw)
 
-【报名截止：6.26 110：00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)
+【报名截止：6.26 10：00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)
 
 ## 深圳大学
 
@@ -395,7 +414,7 @@
 
 【报名截止：6.27】[材料与能源学院](https://clnyxy.gdut.edu.cn/info/1012/7975.htm)
 
-【报名截止：6.13】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8485.htm)
+~~【报名截止：6.13】[信息工程学院](https://xxgcxy.gdut.edu.cn/info/1210/8485.htm)~~
 
 ## 中国矿业大学
 
@@ -457,6 +476,18 @@
 
 【报名截止：6.20 12：00】[中国工程物理研究院](https://zsxx.gscaep.ac.cn/enrollment/detail/1955)
 
+## 中国船舶科学研究中心
+
+【报名截止：6.23】[深海技术科学太湖实验室](https://mp.weixin.qq.com/s/VToGpyRCXNWH5P7MjnxtuA)
+
+## 中国原子能科学研究院核物理研究所
+
+【报名截止：6.27】[核物理研究所](https://mp.weixin.qq.com/s/bVqz3m8n3XCC47iHZJW-XA)
+
+## 中国石油勘探开发研究院
+
+【报名截止：7.5】[中国石油勘探开发研究院](http://riped.cnpc.com.cn/yjs/szsxx/202506/d9894f408e9a4aa5b60549effdb5beb7.shtml)
+
 ## 中国航天科工集团
 
 【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)
@@ -465,7 +496,7 @@
 
 【报名截止：N/A】[（广州）智能制造博士项目](https://mp.weixin.qq.com/s/mXSzUAgvS27tT1qg8d88Eg)
 
-【报名截止：6.12】[（广州）智能交通学域](https://mp.weixin.qq.com/s/yUW91BkAUbSpD6ZF7h2e0g)
+~~【报名截止：6.12】[（广州）智能交通学域](https://mp.weixin.qq.com/s/yUW91BkAUbSpD6ZF7h2e0g)~~
 
 ~~【报名截止：5.26】[（广州）智能制造学域](https://mp.weixin.qq.com/s/6NZabo703m12ztTF9FupVA)~~
 
