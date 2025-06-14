@@ -111,7 +111,7 @@
 
 【报名截止：6.15】[生物系统工程与食品科学学院](http://www.caefs.zju.edu.cn/2025/0508/c68202a3046985/page.htm)
 
-【报名截止：6.14】[航空航天学院](http://saa.zju.edu.cn/2025/0530/c67589a3057159/page.htm)
+~~【报名截止：6.14】[航空航天学院](http://saa.zju.edu.cn/2025/0530/c67589a3057159/page.htm)~~
 
 ## 哈尔滨工业大学
 
@@ -227,7 +227,7 @@
 
 【报名截止：6.15 22：00】[交通学院](https://tjjt.tongji.edu.cn/info/1561/11360.htm)
 
-【报名截止：6.14 17：00】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/62/2c/c17827a352812/page.htm)
+~~【报名截止：6.14 17：00】[上海自主智能无人系统科学中心](https://srias.tongji.edu.cn/62/2c/c17827a352812/page.htm)~~
 
 ~~【报名截止：6.12 17:00】[航空航天与力学学院](https://aero-mech.tongji.edu.cn/5b/da/c22245a351194/page.htm)~~
 
@@ -260,7 +260,6 @@
 【报名截止：7.1 17：00】[药学院](https://pharm.ecnu.edu.cn/b0/56/c43776a700502/page.htm)
 
 ## 吉林大学
-
 
 【报名截止：6.20 9：00】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/8121.htm)
 
@@ -437,6 +436,8 @@
 ## 上海理工大学
 
 【报名截止：6.30】[管理学院-交通运输工程 学科](https://bs.usst.edu.cn/2025/0609/c10537a342911/page.htm)
+
+【报名截止：6.29 17：00】[智能科技学院](https://saist.usst.edu.cn/2025/0613/c16114a343278/page.htm)
 
 【报名截止：6.24 17：00】[机械工程学院](https://me.usst.edu.cn/2025/0606/c12292a342784/page.htm)
 
