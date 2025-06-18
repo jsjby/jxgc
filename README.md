@@ -47,6 +47,8 @@
 
 【报名截止：7.6 17：00】[溥渊未来技术学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
+【报名截止：7.3】[董浩云智能制造与服务管理研究院（中美物流研究院）-更爱时间](https://mp.weixin.qq.com/s/NlIUW4jghSAy1qnAlOx15Q)
+
 【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[自动化与感知学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
@@ -56,8 +58,6 @@
 【报名截止：6.25】[材料科学与工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[国家电投智慧能源创新学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
-
-【报名截止：6.23 17：00】[董浩云智能制造与服务管理研究院（中美物流研究院）](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.22】[环境科学与工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
@@ -143,6 +143,8 @@
 
 【报名截止：7.13】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
 
+【报名截止：7.3】[绿色氢电全国重点实验室](https://mfpe.xjtu.edu.cn/info/1076/7116.htm)
+
 【报名截止：6.30】[新闻与新媒体学院-“跨越·融合·创新”学科交叉](https://xmtxy.xjtu.edu.cn/info/1054/10641.htm)
 
 【报名截止：6.30 10：00】[前沿科学技术研究院](https://fist.xjtu.edu.cn/info/1009/4433.htm)
@@ -157,7 +159,7 @@
 
 【报名截止：6.20】[航天航空学院 复杂服役环境重大装备结构强度与寿命全国重点实验室](https://sae.xjtu.edu.cn/info/1093/8800.htm)
 
-【报名截止：6.17】[生命科学与技术学院](https://slst.xjtu.edu.cn/info/1098/9490.htm)
+~~【报名截止：6.17】[生命科学与技术学院](https://slst.xjtu.edu.cn/info/1098/9490.htm)~~
 
 ~~【报名截止：6.15】[能源与动力工程学院](https://epe.xjtu.edu.cn/info/1483/4723.htm)~~
 
@@ -211,13 +213,13 @@
 
 【报名截止：6.19】[中欧清洁与可再生能源学院](https://icare.hust.edu.cn/info/1031/8814.htm)
 
-【报名截止：6.17 23：00】[生命科学与技术学院](https://life.hust.edu.cn/info/1855/11657.htm)
+~~【报名截止：6.17 23：00】[生命科学与技术学院](https://life.hust.edu.cn/info/1855/11657.htm)~~
 
 ~~【报名截止：6.16】[材料科学与工程学院](https://mat.hust.edu.cn/info/1137/8292.htm)~~
 
 ## 华东师范大学
 
-【报名截止：6.17】[通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/ae/1d/c4170a699933/page.htm)
+~~【报名截止：6.17】[通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/ae/1d/c4170a699933/page.htm)~~
 
 ## 同济大学
 
@@ -267,6 +269,8 @@
 
 ## 吉林大学
 
+【报名截止：6.26 9：00】[交通学院](https://jt.jlu.edu.cn/info/1066/6624.htm)
+
 【报名截止：6.20 9：00】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/8121.htm)
 
 ~~【报名截止：6.15】[新能源与环境学院](https://cer.jlu.edu.cn/info/1105/9266.htm)~~
@@ -276,6 +280,14 @@
 ## 四川大学
 
 【报名截止：6.27】[水利水电学院](https://cwrh.scu.edu.cn/info/1084/5167.htm)
+
+【报名截止：6.23 9:00】[机械工程学院 ](https://msec.scu.edu.cn/info/1091/6417.htm)
+
+## 山东大学
+
+【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/17842.htm)
+
+【报名截止：6.27 12：00】[核科学与能源动力学院](https://www.epe.sdu.edu.cn/info/1040/12089.htm)
 
 ## 兰州大学
 
@@ -412,6 +424,10 @@
 ~~【报名截止：6.15】[材料科学与工程系](https://mse.sustech.edu.cn/zh/News/Details/943)~~
 
 ~~【报名截止：6.9 9：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/0q1ehbKmIFlTWaGspkzpmQ)~~
+
+## 南京航空航天大学
+
+【报名截止：6.26】[机电学院实验室](https://cmee.nuaa.edu.cn/2025/0617/c17776a378207/page.htm)
 
 ## 西湖大学
 
