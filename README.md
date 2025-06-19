@@ -245,6 +245,10 @@
 
 【报名截止：7.10】[智能工程学院](https://ise.sysu.edu.cn/article/1522)
 
+【报名截止：6.24】[生物医学工程学院](https://bme.sysu.edu.cn/noticezs/1419281.htm)
+
+【报名截止：6.24】[生物医学工程学院-医工融合·智汇鹏城-暑期学校报名](https://bme.sysu.edu.cn/noticezs/1419285.htm)
+
 【报名截止：6.22】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1231)
 
 【报名截止：6.22 16：00】[先进制造学院](https://mp.weixin.qq.com/s/SmUparz9cWV-jdH4nPLX4A)
@@ -279,13 +283,23 @@
 
 ## 四川大学
 
+【报名截止：6.30 12：00】[碳中和未来技术学院](https://ccnft.scu.edu.cn/info/1033/2284.htm)
+
 【报名截止：6.27】[水利水电学院](https://cwrh.scu.edu.cn/info/1084/5167.htm)
+
+【报名截止：6.26】[空天科学与工程学院](https://saa.scu.edu.cn/info.htm?id=661743141583429&c=781494316834704)
+
+【报名截止：6.25 18：00】[新能源与低碳技术研究院](https://inelt.scu.edu.cn/info/1011/1941.htm)
 
 【报名截止：6.23 9:00】[机械工程学院 ](https://msec.scu.edu.cn/info/1091/6417.htm)
 
 ## 山东大学
 
+【报名截止：7.4 17：00】[齐鲁交通学院 ](https://www.qltrans.sdu.edu.cn/info/1112/5175.htm)
+
 【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/17842.htm)
+
+【报名截止：6.28】[机械工程学院](https://www.mech.sdu.edu.cn/info/1097/137879.htm)
 
 【报名截止：6.27 12：00】[核科学与能源动力学院](https://www.epe.sdu.edu.cn/info/1040/12089.htm)
 
@@ -399,6 +413,12 @@
 
 ## 北京交通大学
 
+> [北京交通大学招生信息](https://yzb.bjtu.edu.cn/tzgg/cf698483c20948348ac9af8ea1131cc7.htm)
+
+【报名截止：N/A】[电子信息工程学院](https://eie.bjtu.edu.cn/cms/item/6161.html)
+
+【报名截止：7.1】[系统科学学院](https://sss.bjtu.edu.cn/cms/item/23441.html)
+
 【报名截止：7.1】[机械与电子控制工程学院](https://mece.bjtu.edu.cn/cms/item/5239.html)
 
 ## 上海科技大学
@@ -427,6 +447,10 @@
 
 ## 南京航空航天大学
 
+> [南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0617/c2145a378429/page.htm)
+
+【报名截止：6.28】[航天学院](https://astro.nuaa.edu.cn/2025/0617/c2096a378398/page.htm)
+
 【报名截止：6.26】[机电学院实验室](https://cmee.nuaa.edu.cn/2025/0617/c17776a378207/page.htm)
 
 ## 西湖大学
@@ -454,6 +478,8 @@
 ~~【报名截止：6.6】[材料与物理学院](https://smsp.cumt.edu.cn/66/41/c18894a681537/page.htm)~~
 
 ## 中国地质大学
+
+【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)
 
 【报名截止：6.20】[（武汉）自动化学院](https://au.cug.edu.cn/info/1028/11304.htm)
 
@@ -486,6 +512,10 @@
 ## 长江大学
 
 【报名截止：7.1】[电子信息与电气工程学院](https://dxxy.yangtzeu.edu.cn/info/1055/4805.htm)
+
+## 河南大学
+
+【报名截止：6.28】[能源科学与技术学院](https://mp.weixin.qq.com/s/0Y8jIR3-s507FSAL3hVnWw)
 
 ## 北京石墨烯研究院
 
