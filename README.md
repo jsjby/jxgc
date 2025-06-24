@@ -33,7 +33,7 @@
 
 【报名截止：6.26 17:00】[新材料学院](https://mp.weixin.qq.com/s/k7J5hdVxYEgVpsHsp7IHOg)
 
-【报名截止：6.23 12：00】[材料科学与工程学院](https://www.mse.pku.edu.cn/info/1013/3954.htm)
+~~【报名截止：6.23 12：00】[材料科学与工程学院](https://www.mse.pku.edu.cn/info/1013/3954.htm)~~
 
 ~~【报名截止：6.16 8：00】[智能学院](https://sai.pku.edu.cn/info/1083/3389.htm)~~
 
@@ -49,6 +49,10 @@
 
 【报名截止：7.3】[董浩云智能制造与服务管理研究院（中美物流研究院）-更改时间](https://mp.weixin.qq.com/s/NlIUW4jghSAy1qnAlOx15Q)
 
+【报名截止：7.3 17：00】[船舶海洋与建筑工程学院-推迟报名时间](https://mp.weixin.qq.com/s/7VYBkV2jdGIkwceXHt4vbQ)
+
+【报名截止：7.3 9：00】[国家电投智慧能源创新学院-推迟夏令营时间](https://www.senergy.sjtu.edu.cn/index/tongzhigonggao/3616.html)
+
 【报名截止：6.29 10：00】[生物医学工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[自动化与感知学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
@@ -56,8 +60,6 @@
 【报名截止：6.25】[集成电路学院(信息与电子工程学院)](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 【报名截止：6.25】[材料科学与工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
-
-【报名截止：6.25】[国家电投智慧能源创新学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)
 
 ~~【报名截止：6.22】[环境科学与工程学院](https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx)~~
 
@@ -177,7 +179,7 @@
 
 【报名截止：6.25 21：00】[化学工程与技术学院](https://clet.xjtu.edu.cn/info/1197/8052.htm)
 
-【报名截止：6.23 18：00】[机械工程学院](https://mec.xjtu.edu.cn/info/1296/15281.htm)
+~~【报名截止：6.23 18：00】[机械工程学院](https://mec.xjtu.edu.cn/info/1296/15281.htm)~~
 
 ~~【报名截止：6.20】[航天航空学院 复杂服役环境重大装备结构强度与寿命全国重点实验室](https://sae.xjtu.edu.cn/info/1093/8800.htm)~~
 
@@ -231,7 +233,7 @@
 
 【报名截止：7.3】[航空航天学院](https://ae.hust.edu.cn/info/1079/3724.htm)
 
-【报名截止：6.23 17：00】[武汉光电国家研究中心](https://mp.weixin.qq.com/s/JUF5S6VvyleP2sFlOkJMyw)
+~~【报名截止：6.23 17：00】[武汉光电国家研究中心](https://mp.weixin.qq.com/s/JUF5S6VvyleP2sFlOkJMyw)~~
 
 ~~【报名截止：：6.22】[船舶与海洋工程学院](https://ch.hust.edu.cn/info/1039/3871.htm)~~
 
@@ -273,9 +275,9 @@
 
 【报名截止：7.10】[智能工程学院](https://ise.sysu.edu.cn/article/1522)
 
-【报名截止：6.24】[生物医学工程学院](https://bme.sysu.edu.cn/noticezs/1419281.htm)
+~~【报名截止：6.24】[生物医学工程学院](https://bme.sysu.edu.cn/noticezs/1419281.htm)~~
 
-【报名截止：6.24】[生物医学工程学院-医工融合·智汇鹏城-暑期学校报名](https://bme.sysu.edu.cn/noticezs/1419285.htm)
+~~【报名截止：6.24】[生物医学工程学院-医工融合·智汇鹏城-暑期学校报名](https://bme.sysu.edu.cn/noticezs/1419285.htm)~~
 
 ~~【报名截止：6.22】[海洋工程与技术学院](https://soet.sysu.edu.cn/zh-hans/article/1231)~~
 
@@ -319,11 +321,13 @@
 
 【报名截止：6.25 18：00】[新能源与低碳技术研究院](https://inelt.scu.edu.cn/info/1011/1941.htm)
 
-【报名截止：6.23 9:00】[机械工程学院 ](https://msec.scu.edu.cn/info/1091/6417.htm)
+~~【报名截止：6.23 9:00】[机械工程学院 ](https://msec.scu.edu.cn/info/1091/6417.htm)~~
 
 ## 山东大学
 
 【报名截止：7.4 17：00】[齐鲁交通学院 ](https://www.qltrans.sdu.edu.cn/info/1112/5175.htm)
+
+【报名截止：7.2】[新一代半导体材料研究院](https://dpt.sdu.edu.cn/info/1035/3741.htm)
 
 【报名截止：6.30】[机电与信息工程学院](https://ie.wh.sdu.edu.cn/info/1007/17842.htm)
 
@@ -573,7 +577,7 @@
 
 【报名截止：6.29 17：00】[智能科技学院](https://saist.usst.edu.cn/2025/0613/c16114a343278/page.htm)
 
-【报名截止：6.24 17：00】[机械工程学院](https://me.usst.edu.cn/2025/0606/c12292a342784/page.htm)
+~~【报名截止：6.24 17：00】[机械工程学院](https://me.usst.edu.cn/2025/0606/c12292a342784/page.htm)~~
 
 ## 上海大学
 
@@ -615,7 +619,7 @@
 
 ## 武汉理工大学
 
-【报名截止：6.23】[船海与能源动力工程学院](https://naoep.whut.edu.cn/zsjy/yjszs/202506/t20250620_1333939.shtml)
+~~【报名截止：6.23】[船海与能源动力工程学院](https://naoep.whut.edu.cn/zsjy/yjszs/202506/t20250620_1333939.shtml)~~
 
 ## 北京石墨烯研究院
 
@@ -643,7 +647,7 @@
 
 ## 中国船舶科学研究中心
 
-【报名截止：6.23】[深海技术科学太湖实验室](https://mp.weixin.qq.com/s/VToGpyRCXNWH5P7MjnxtuA)
+~~【报名截止：6.23】[深海技术科学太湖实验室](https://mp.weixin.qq.com/s/VToGpyRCXNWH5P7MjnxtuA)~~
 
 ## 中国原子能科学研究院核物理研究所
 
