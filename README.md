@@ -5,7 +5,7 @@
 
 ## 清华大学
 
-> 【报名截止：<span class="deadline" data-deadline="2025-07-28T12:00:00">Loading...</span>】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|> [清华大学博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/053a7602-4d2d-4aee-bde4-13cf9a44846d)|
+> 【报名截止：7.28 12:00】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|> [清华大学博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/053a7602-4d2d-4aee-bde4-13cf9a44846d)|
 > [清华大学工程硕博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/3d7b9add-9a4f-423b-8b8e-e91957ab5b1e)|[深圳国际研究生院招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/029b0906-7314-4b89-8e6a-56fd3de3f55a?yxsdm=599)
 
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
