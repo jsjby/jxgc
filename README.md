@@ -280,6 +280,8 @@
 
 ## 厦门大学
 
+【报名截止：7.6 17：00】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11360.htm)
+
 ~~【报名截止：5.28】[化学化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)~~
 
 ## 东南大学
@@ -288,7 +290,11 @@
 
 【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)
 
+【报名截止：8.8 12：00】[机械工程学院](https://me.seu.edu.cn/2025/0703/c1549a534881/page.htm)
+
 【报名截止：7.31 12：00】[能源与环境学院](https://power.seu.edu.cn/2025/0701/c9506a534737/page.htm)
+
+【报名截止：7.31 12：00】[建筑学院&建筑研究所](hhttps://arch.seu.edu.cn/2025/0702/c9126a534853/page.htm)
 
 【报名截止：7.31 12：00】[生物科学与医学工程学院](https://bme.seu.edu.cn/2025/0630/c480a534639/page.htm)
 
@@ -648,6 +654,8 @@
 
 > [南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0617/c2145a378429/page.htm)
 
+【报名截止：7.6】[直升机动力学全国重点实验室](https://hti.nuaa.edu.cn/2025/0702/c20277a379433/page.htm)
+
 【报名截止：7.5】[自动化学院江苏省研究生低空无人机自主决策与安全控制](https://cae.nuaa.edu.cn/2025/0620/c13269a378641/page.htm)
 
 【报名截止：7.4】[能源与动力学院](https://cs.nuaa.edu.cn/2025/0614/c10851a377816/page.htm)
@@ -730,6 +738,8 @@
 
 ## 中国石油大学
 
+【报名截止：7.7 14：00】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/f8fae3d2ba814dd99300ce2ba85d4c88.htm)
+
 【报名截止：7.7 14：00】[（北京）化学工程与环境学院](https://www.cup.edu.cn/chem/yjsjxypy/zsxx/6d867cbaadaa46da81ac43888dd0539e.htm)
 
 【报名截止：7.6】[（北京）机械与储运工程学院](https://www.cup.edu.cn/mte/sqyr/yjspy/zsdt/8682449f46b44330854c9c424dd01da5.htm)
@@ -775,6 +785,10 @@
 ## 北京林业大学
 
 ~~【报名截止：7.1】[材料学院](https://clxy.bjfu.edu.cn/rcpy/5ae22892a28740069703d98239c3da69.html)~~
+
+## 北京化工大学
+
+【报名截止：7.7】[机电工程学院](https://mp.weixin.qq.com/s/nGMr9GVPuGODRL4alk42qQ)
 
 ## 南京师范大学
 
