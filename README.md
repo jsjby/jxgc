@@ -172,6 +172,8 @@
 
 【报名截止：9.10】[材料科学与工程学院](https://mse.hit.edu.cn/2025/0630/c20611a372870/page.htm)
 
+【报名截止：8.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0704/c17101a373174/page.htm)
+
 【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)
 
 【报名截止：7.6】[产教融合人才培养基地（重庆）](http://cri.hit.edu.cn/2025/0625/c15728a372715/pagem.htm)
@@ -249,6 +251,10 @@
 ~~【报名截止：7.2】[人工智能学院](https://ai.bnu.edu.cn/ggjxz/tzgg/6dc74824e7f64fd888a456db6cade219.htm)~~
 
 ~~【报名截止：6.15】[教育学部教育技术学院](https://fe.bnu.edu.cn/html/1/news/20250526/n8799.html)~~
+
+## 北京理工大学
+
+【报名截止：7.16 12：00】[先进结构技术研究院](https://xjjg.bit.edu.cn/xwzx/tzgg/8b4529f21dfc43168106d800c2bf79e7.htm)
 
 ## 天津大学
 
@@ -408,6 +414,8 @@
 
 ## 中南大学
 
+【报名截止：7.10 17：00】[交通运输工程学院](https://stte.csu.edu.cn/info/1064/8552.htm)
+
 【报名截止：7.6】[能源科学与工程学院](https://energy.csu.edu.cn/info/1101/3902.htm)
 
 ## 电子科技大学
@@ -425,6 +433,8 @@
 ~~【报名截止：7.3】[材料与能源学院](https://materials.uestc.edu.cn/info/1056/8156.htm)~~
 
 ## 重庆大学
+
+【报名截止：7.10】[土木工程学院](https://civil.cqu.edu.cn/info/1493/17586.htm)
 
 【报名截止：7.10】[自动化学院](https://mp.weixin.qq.com/s/UojfbSiT3nSGirXJb-BE_Q)
 
@@ -459,6 +469,8 @@
 ## 东北大学
 
 > [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
+
+【报名截止：7.6】[冶金学院](http://www.som.neu.edu.cn/2025/0701/c10575a288726/page.htm)
 
 【报名截止：7.5】[机械工程与自动化学院](http://www.me.neu.edu.cn/2025/0701/c3402a288691/page.htm)
 
@@ -692,6 +704,12 @@
 
 ~~【报名截止：6.29】[工程学院](https://gcxy.scau.edu.cn/2025/0624/c2105a412438/page.htm)~~
 
+## 华北电力大学
+
+【报名截止：7.10】[电气与电子工程学院](https://electric.ncepu.edu.cn/zsgz/bsyjszs/9eb346296f2343afa9cbca098b121bb7.htm)
+
+【报名截止：7.10 14：30】[电力工程系](https://ee.ncepu.edu.cn/tzgg3/a2b988234a0a44d19756308eb16f3213.htm)
+
 ## 北京林业大学
 
 ~~【报名截止：6.29】[工学院](https://gxy.bjfu.edu.cn/yanjiushengjiaoyu/yanjiushengzhaosheng/6739baef0b8049b3b53df2eda0fe6f92.html)~~
@@ -715,6 +733,8 @@
 ## 中国人民解放军海军工程大学
 
 【报名截止：N/A】[中国人民解放军海军工程大学](https://mp.weixin.qq.com/s/gmemPjfiwzruRWYTJ5HTMA)
+
+【报名截止：7.9】[电磁能技术全国重点实验室](https://mp.weixin.qq.com/s/3mdABbog0Hm6GWpyMXKyJA)
 
 ## 广东工业大学
 
