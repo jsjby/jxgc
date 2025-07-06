@@ -178,7 +178,7 @@
 
 【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)
 
-【报名截止：7.6】[产教融合人才培养基地（重庆）](http://cri.hit.edu.cn/2025/0625/c15728a372715/pagem.htm)
+~~【报名截止：7.6】[产教融合人才培养基地（重庆）](http://cri.hit.edu.cn/2025/0625/c15728a372715/pagem.htm)~~
 
 ~~【报名截止：6.30 17:00】[仪器科学与工程学院](https://ise.hit.edu.cn/2025/0509/c16271a369681/page.htm)~~
 
@@ -272,9 +272,9 @@
 
 【报名截止：7.15】[环境科学与工程学院](https://tjusee.tju.edu.cn/info/1126/4667.htm)
 
-【报名截止：7.7】[化工学院](https://scet.tju.edu.cn/info/1019/4558.htm)
+~~【报名截止：7.7】[化工学院](https://scet.tju.edu.cn/info/1019/4558.htm)~~
 
-【报名截止：7.6】[机械工程学院](https://me.tju.edu.cn/news_content.action?cla=3&news.id=7621)
+~~【报名截止：7.6】[机械工程学院](https://me.tju.edu.cn/news_content.action?cla=3&news.id=7621)~~
 
 ~~【报名截止：7.2】[宣怀学院](https://mp.weixin.qq.com/s/i4VC311sfYnqjPJGfhTEsw)~~
 
@@ -290,7 +290,7 @@
 
 ## 厦门大学
 
-【报名截止：7.6 17：00】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11360.htm)
+~~【报名截止：7.6 17：00】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11360.htm)~~
 
 ~~【报名截止：5.28】[化学化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)~~
 
@@ -320,6 +320,8 @@
 
 > [国防科技大学招生信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14495)|[国防科技大学招生人数](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14513)
 
+【报名截止：7.12】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14520)
+
 【报名截止：7.8 19：00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14508)
 
 【报名截止：7.8】[空天科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14519)
@@ -328,29 +330,31 @@
 
 > [西北工业大学招生信息](https://yzb.nwpu.edu.cn/info/1174/9868.htm)
 
-【报名截止：7.6 21：00】[力学与交通运载工程学院](https://liuyuan.nwpu.edu.cn/info/1024/15554.htm)
+~~【报名截止：7.6 21：00】[力学与交通运载工程学院](https://liuyuan.nwpu.edu.cn/info/1024/15554.htm)~~
 
-【报名截止：7.6 21：00】[民航学院](https://minhang.nwpu.edu.cn/info/1150/12393.htm)
+~~【报名截止：7.6 21：00】[民航学院](https://minhang.nwpu.edu.cn/info/1150/12393.htm)~~
 
-【报名截止：7.6 21：00】[航海学院](https://hanghai.nwpu.edu.cn/info/1946/23432.htm)
+~~【报名截止：7.6 21：00】[航海学院](https://hanghai.nwpu.edu.cn/info/1946/23432.htm)~~
 
-【报名截止：7.6 21：00】[航天学院](https://hangtian.nwpu.edu.cn/info/1808/39311.htm)
+~~【报名截止：7.6 21：00】[航天学院](https://hangtian.nwpu.edu.cn/info/1808/39311.htm)~~
 
-【报名截止：7.6 21：00】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/28063.htm)
+~~【报名截止：7.6 21：00】[自动化学院](https://zdhxy.nwpu.edu.cn/info/1042/28063.htm)~~
 
-【报名截止：7.6 21：00】[柔性电子研究院](https://ife.nwpu.edu.cn/info/1175/13945.htm)
+~~【报名截止：7.6 21：00】[柔性电子研究院](https://ife.nwpu.edu.cn/info/1175/13945.htm)~~
 
-【报名截止：7.6 21：00】[航空学院](https://hangkong.nwpu.edu.cn/info/1357/45434.htm)
+~~【报名截止：7.6 21：00】[航空学院](https://hangkong.nwpu.edu.cn/info/1357/45434.htm)~~
 
-【报名截止：7.6 21：00】[动力与能源学院](https://dongneng.nwpu.edu.cn/info/1032/17505.htm)
+~~【报名截止：7.6 21：00】[动力与能源学院](https://dongneng.nwpu.edu.cn/info/1032/17505.htm)~~
 
-【报名截止：7.6 21：00】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/9778.htm)
+~~【报名截止：7.6 21：00】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/9778.htm)~~
 
-【报名截止：7.6 21：00】[机电学院](https://jidian.nwpu.edu.cn/info/1017/13139.htm)
+~~【报名截止：7.6 21：00】[机电学院](https://jidian.nwpu.edu.cn/info/1017/13139.htm)~~
 
 ## 华中科技大学
 
 【报名截止：N/A】[机械学院](https://mse.hust.edu.cn/info/1181/17280.htm)
+
+【报名截止：7.10】[环境科学与工程学院-延长报名时间](https://ese.hust.edu.cn/info/1036/5302.htm)
 
 ~~【报名截止：7.5】[环境科学与工程学院](https://ese.hust.edu.cn/info/1036/5302.htm)~~
 
@@ -420,7 +424,7 @@
 
 【报名截止：7.10 17：00】[交通运输工程学院](https://stte.csu.edu.cn/info/1064/8552.htm)
 
-【报名截止：7.6】[能源科学与工程学院](https://energy.csu.edu.cn/info/1101/3902.htm)
+~~【报名截止：7.6】[能源科学与工程学院](https://energy.csu.edu.cn/info/1101/3902.htm)~~
 
 ## 电子科技大学
 
@@ -430,7 +434,7 @@
 
 【报名截止：7.8】[（深圳）高等研究院](https://sias.uestc.edu.cn/info/1235/5741.htm)
 
-【报名截止：7.6】[自动化工程学院](https://www.auto.uestc.edu.cn/info/1045/7563.htm)
+~~【报名截止：7.6】[自动化工程学院](https://www.auto.uestc.edu.cn/info/1045/7563.htm)~~
 
 ~~【报名截止：7.5】[机械与电气工程学院](https://www.smee.uestc.edu.cn/info/1108/22095.htm)~~
 
@@ -446,7 +450,7 @@
 
 ## 吉林大学
 
-【报名截止：7.6 16：00】[仪器科学与电气工程学院](https://ciee.jlu.edu.cn/info/1082/15019.htm)
+~~【报名截止：7.6 16：00】[仪器科学与电气工程学院](https://ciee.jlu.edu.cn/info/1082/15019.htm)~~
 
 ~~【报名截止：6.30】[建设工程学院](https://const.jlu.edu.cn/info/1065/8062.htm)~~
 
@@ -474,7 +478,7 @@
 
 > [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
 
-【报名截止：7.6】[冶金学院](http://www.som.neu.edu.cn/2025/0701/c10575a288726/page.htm)
+~~【报名截止：7.6】[冶金学院](http://www.som.neu.edu.cn/2025/0701/c10575a288726/page.htm)~~
 
 ~~【报名截止：7.5】[机械工程与自动化学院](http://www.me.neu.edu.cn/2025/0701/c3402a288691/page.htm)~~
 
@@ -606,7 +610,7 @@
 
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/6496.htm)
 
-【报名截止：7.6】[光电学院](https://oe.ucas.ac.cn/index.php/zh/tongzhi/574-2025-06-24-08-52-40)
+~~【报名截止：7.6】[光电学院](https://oe.ucas.ac.cn/index.php/zh/tongzhi/574-2025-06-24-08-52-40)~~
 
 ~~【报名截止：6.30】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/536-2025-7)~~
 
@@ -640,7 +644,7 @@
 
 ## 北京科技大学
 
-【报名截止：7.7 12：00】[中国有研科技集团](https://mp.weixin.qq.com/s/F3CXgKsZ9B-eDmNa5oDFtg)
+~~【报名截止：7.7 12：00】[中国有研科技集团](https://mp.weixin.qq.com/s/F3CXgKsZ9B-eDmNa5oDFtg)~~
 
 ~~【报名截止：7.3 12：00】[中国五矿集团有限公司](https://mp.weixin.qq.com/s/c3g8aCkDieo5z1LNvVBECg)~~
 
@@ -672,7 +676,9 @@
 
 > [南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0617/c2145a378429/page.htm)
 
-【报名截止：7.6】[直升机动力学全国重点实验室](https://hti.nuaa.edu.cn/2025/0702/c20277a379433/page.htm)
+【报名截止：9.1】[航空学院系所](https://aero.nuaa.edu.cn/2025/0705/c4293a379634/page.htm)
+
+~~【报名截止：7.6】[直升机动力学全国重点实验室](https://hti.nuaa.edu.cn/2025/0702/c20277a379433/page.htm)~~
 
 ~~【报名截止：7.5】[自动化学院江苏省研究生低空无人机自主决策与安全控制](https://cae.nuaa.edu.cn/2025/0620/c13269a378641/page.htm)~~
 
@@ -766,11 +772,11 @@
 
 【报名截止：7.18】[（北京）石油工程学院](https://www.cup.edu.cn/oil/zsjy/zsxx/a4d8d35d51bc4380a158c6e0116dcb71.htm)
 
-【报名截止：7.7 14：00】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/f8fae3d2ba814dd99300ce2ba85d4c88.htm)
+~~【报名截止：7.7 14：00】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/f8fae3d2ba814dd99300ce2ba85d4c88.htm)~~
 
-【报名截止：7.7 14：00】[（北京）化学工程与环境学院](https://www.cup.edu.cn/chem/yjsjxypy/zsxx/6d867cbaadaa46da81ac43888dd0539e.htm)
+~~【报名截止：7.7 14：00】[（北京）化学工程与环境学院](https://www.cup.edu.cn/chem/yjsjxypy/zsxx/6d867cbaadaa46da81ac43888dd0539e.htm)~~
 
-【报名截止：7.6】[（北京）机械与储运工程学院](https://www.cup.edu.cn/mte/sqyr/yjspy/zsdt/8682449f46b44330854c9c424dd01da5.htm)
+~~【报名截止：7.6】[（北京）机械与储运工程学院](https://www.cup.edu.cn/mte/sqyr/yjspy/zsdt/8682449f46b44330854c9c424dd01da5.htm)~~
 
 ## 东北师范大学
 
@@ -778,7 +784,7 @@
 
 ## 东华大学
 
-【报名截止：7.7 16:00】[环境科学与工程学院](https://env.dhu.edu.cn/2025/0630/c19495a363418/page.htm)
+~~【报名截止：7.7 16:00】[环境科学与工程学院](https://env.dhu.edu.cn/2025/0630/c19495a363418/page.htm)~~
 
 ~~【报名截止：7.1 16:00】[纺织学院](https://mp.weixin.qq.com/s/8e4kC4csW5V_zVNT6WoBwQ)~~
 
@@ -818,7 +824,7 @@
 
 ## 北京化工大学
 
-【报名截止：7.7】[机电工程学院](https://mp.weixin.qq.com/s/nGMr9GVPuGODRL4alk42qQ)
+~~【报名截止：7.7】[机电工程学院](https://mp.weixin.qq.com/s/nGMr9GVPuGODRL4alk42qQ)~~
 
 ## 南京师范大学
 
