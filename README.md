@@ -12,6 +12,8 @@
 
 【报名截止：N/A】[深圳国际研究生院郑泉水院士](https://mp.weixin.qq.com/s/x1dJij9cmAeidzhL-SczVQ)
 
+【报名截止：7.28 12：00】[SIGS未来科技与产业项目](https://mp.weixin.qq.com/s/GFpLmZuYl46QoGVAJb_huQ)
+
 【报名截止：7.28 12：00】[精密仪器系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4e459e9a-3bb3-451c-8530-ff744aaace99?yxsdm=013)
 
 【报名截止：7.28 12：00】[能源与动力工程系](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/6d9a3a27-4906-42dc-bfb0-a8226811c057?yxsdm=014)
@@ -170,6 +172,14 @@
 
 【报名截止：N/A】[机电工程学院](https://sme.hit.edu.cn/2025/0630/c17968a372867/page.htm)
 
+【报名截止：N/A】[新能源学院-审核时间第一批：2025年7月4日-第二批：2025年9月8日](https://newenergy.hitwh.edu.cn/2025/0707/c1522a202082/page.htm)
+
+【报名截止：N/A】[（威海）海洋工程学院-审核时间9月上旬和中旬](https://snaoe.hitwh.edu.cn/2025/0707/c86a202086/page.htm)
+
+【报名截止：N/A】[（威海）汽车工程学院-审核时间第一批：第一批：2025年7月15日-第二批：第二批：2025年9月7日-第三批：2025年9月21日](https://auto.hitwh.edu.cn/2025/0707/c189a202087/page.htm)
+
+【报名截止：9.15】[化工与化学学院](https://chemeng.hit.edu.cn/2025/0705/c4283a373227/page.htm)
+
 【报名截止：9.10】[材料科学与工程学院](https://mse.hit.edu.cn/2025/0630/c20611a372870/page.htm)
 
 【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
@@ -256,6 +266,8 @@
 
 ## 北京理工大学
 
+【报名截止：7.17 23：00】[空天科学与技术学院航空宇航科技](https://sae.bit.edu.cn/tzgggb/a13dad4675664a82b254fdd466944384.htm)
+
 【报名截止：7.16 12：00】[先进结构技术研究院](https://xjjg.bit.edu.cn/xwzx/tzgg/8b4529f21dfc43168106d800c2bf79e7.htm)
 
 【报名截止：7.10 15：00】[化学与化工学院](https://cce.bit.edu.cn/tzgg/501f8a1cb483498cbe790502fbe1dcd2.htm)
@@ -279,6 +291,8 @@
 ~~【报名截止：7.2】[宣怀学院](https://mp.weixin.qq.com/s/i4VC311sfYnqjPJGfhTEsw)~~
 
 ## 南开大学
+
+【报名截止：8.15】[化学学院](https://chem.nankai.edu.cn/2025/0706/c24089a574934/page.htm)
 
 ~~【报名截止：6.18】[特种化学电源全国重点实验室](https://chem.nankai.edu.cn/2025/0606/c24089a572528/page.htm)~~
 
@@ -445,6 +459,8 @@
 【报名截止：7.10】[土木工程学院](https://civil.cqu.edu.cn/info/1493/17586.htm)
 
 【报名截止：7.10】[自动化学院](https://mp.weixin.qq.com/s/UojfbSiT3nSGirXJb-BE_Q)
+
+【报名截止：7.9 12：00】[光电工程学院](https://coe.cqu.edu.cn/info/1151/7370.htm)
 
 ~~【报名截止：7.4 12：00】[航空航天学院](https://ae.cqu.edu.cn/info/1313/8416.htm)~~
 
