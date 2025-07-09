@@ -180,9 +180,13 @@
 
 【报名截止：N/A】[（威海）汽车工程学院-审核时间第一批：第一批：2025年7月15日-第二批：第二批：2025年9月7日-第三批：2025年9月21日](https://auto.hitwh.edu.cn/2025/0707/c189a202087/page.htm)
 
+【报名截止：N/A】[重庆研究院](https://cri.hit.edu.cn/2025/0707/c15728a373260/page.htm)
+
 【报名截止：9.15】[化工与化学学院](https://chemeng.hit.edu.cn/2025/0705/c4283a373227/page.htm)
 
 【报名截止：9.15】[航天学院-力学学科](https://sa.hit.edu.cn/2025/0708/c6582a373314/page.htm)
+
+【报名截止：9.10】[生命科学和医学学部](https://life.hit.edu.cn/2025/0709/c6157a373357/page.htm)
 
 【报名截止：9.10】[航天学院-航空宇航科学与技术学科](https://sa.hit.edu.cn/2025/0708/c6582a373313/page.htm)
 
@@ -539,6 +543,22 @@
 ## 兰州大学
 
 ~~【报名截止：6.20 18：00】[核科学与技术学院](https://mp.weixin.qq.com/s/M70LDQifVU0rckJfVe_wrQ)~~
+
+## 大连理工大学
+
+> [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)
+
+【报名截止：7.17】[材料科学与工程学院](https://mse.dlut.edu.cn/info/1037/9231.htm)
+
+【报名截止：7.15】[力学与航空航天学院](https://lihang.dlut.edu.cn/info/1050/25021.htm)
+
+【报名截止：7.14 9：00】[机械工程学院](https://me.dlut.edu.cn/info/1064/15276.htm)
+
+【报名截止：7.13】[化工海洋与生命学院](https://hyxy.dlut.edu.cn/info/1591/27111.htm)
+
+【报名截止：7.13】[能源与动力学院](https://power.dlut.edu.cn/info/4527/25428.htm)
+
+【报名截止：7.12】[医学部](https://med.dlut.edu.cn/info/1003/8597.htm)
 
 ## 中国科学院
 
@@ -929,6 +949,10 @@
 ~~【报名截止：6.28】[交通与物流工程学院](https://stle.whut.edu.cn/yjsjx/zsxx/202506/t20250624_1334271.shtml)~~
 
 ~~【报名截止：6.23】[船海与能源动力工程学院](https://naoep.whut.edu.cn/zsjy/yjszs/202506/t20250620_1333939.shtml)~~
+
+## 山东科技大学
+
+【报名截止：<span class="deadline" data-deadline="2025-07-22T15:00:00">Loading...</span>】[化学与生物工程学院](https://huagong.sdust.edu.cn/info/1038/6303.htm)
 
 ## 山西大学
 
