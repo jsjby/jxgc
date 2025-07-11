@@ -6,7 +6,7 @@
 ## 清华大学
 
 > 【报名截止：7.28 12:00】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|> [清华大学博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/053a7602-4d2d-4aee-bde4-13cf9a44846d)|
-> [清华大学工程硕博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/3d7b9add-9a4f-423b-8b8e-e91957ab5b1e)|[深圳国际研究生院招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/029b0906-7314-4b89-8e6a-56fd3de3f55a?yxsdm=599)
+> [清华大学工程硕博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/3d7b9add-9a4f-423b-8b8e-e91957ab5b1e)|[深圳国际研究生院招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/029b0906-7314-4b89-8e6a-56fd3de3f55a?yxsdm=599)|[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3038.htm)
 
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
 
@@ -482,6 +482,8 @@
 
 ## 重庆大学
 
+【报名截止：8.15】[生物工程学院](https://bio.cqu.edu.cn/info/1305/6424.htm)
+
 ~~【报名截止：7.10】[土木工程学院](https://civil.cqu.edu.cn/info/1493/17586.htm)~~
 
 ~~【报名截止：7.10】[自动化学院](https://mp.weixin.qq.com/s/UojfbSiT3nSGirXJb-BE_Q)~~
@@ -761,6 +763,10 @@
 【报名截止：N/A】[工学院人工智能与科学仿真发现实验室](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw)
 
 ~~【报名截止：6.26 10：00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)~~
+
+## 南京理工大学
+
+【报名截止：7.17】[能源与动力工程学院](https://mp.weixin.qq.com/s/O0M4-5ZfmgXX5X2V1nxuCw)
 
 ## 华东理工大学
 
