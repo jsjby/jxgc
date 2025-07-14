@@ -228,7 +228,7 @@
 
 ## 西安交通大学
 
-【报名截止：7.13】[未来技术学院](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
+【报名截止：7.20】[未来技术学院-延迟时间](https://wljsxy.xjtu.edu.cn/info/1019/2771.htm)
 
 ~~【报名截止：7.3】[绿色氢电全国重点实验室](https://mfpe.xjtu.edu.cn/info/1076/7116.htm)~~
 
