@@ -200,7 +200,7 @@
 
 【报名截止：8.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0704/c17101a373174/page.htm)
 
-【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)
+~~【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)~~
 
 ~~【报名截止：7.6】[产教融合人才培养基地（重庆）](http://cri.hit.edu.cn/2025/0625/c15728a372715/pagem.htm)~~
 
@@ -284,7 +284,7 @@
 
 【报名截止：7.17 23：00】[空天科学与技术学院航空宇航科技](https://sae.bit.edu.cn/tzgggb/a13dad4675664a82b254fdd466944384.htm)
 
-【报名截止：7.16 12：00】[先进结构技术研究院](https://xjjg.bit.edu.cn/xwzx/tzgg/8b4529f21dfc43168106d800c2bf79e7.htm)
+~~【报名截止：7.16 12：00】[先进结构技术研究院](https://xjjg.bit.edu.cn/xwzx/tzgg/8b4529f21dfc43168106d800c2bf79e7.htm)~~
 
 ~~【报名截止：7.15】[机电学院](https://smen.bit.edu.cn/tzgg/e9f0fdfde7184329999bc4b56c6f1fe6.htm)~~
 
@@ -356,7 +356,7 @@
 
 > [国防科技大学招生信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14495)|[国防科技大学招生人数](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14513)
 
-【报名截止：7.12】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14520)
+~~【报名截止：7.12】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14520)~~
 
 ~~【报名截止：7.8 19：00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14508)~~
 
@@ -554,7 +554,7 @@
 
 ## 大连理工大学
 
-> [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)
+> [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)|[大连理工大学预推免招生信息](https://gs.dlut.edu.cn/info/1173/16986.htm)
 
 【报名截止：7.17】[材料科学与工程学院](https://mse.dlut.edu.cn/info/1037/9231.htm)
 
@@ -771,6 +771,8 @@
 ~~【报名截止：6.26 10：00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)~~
 
 ## 南京理工大学
+
+> [南京理工大学招生信息](https://mp.weixin.qq.com/s/87gTsR0HS4FITJXd3fmHng)|[南京理工大学活动安排](https://gs.njust.edu.cn/zsw/61/84/c4587a352644/page.htm)
 
 【报名截止：7.23】[新能源学院](https://mp.weixin.qq.com/s/KSE03RrdwINkmNuEwJ0npQ)
 
