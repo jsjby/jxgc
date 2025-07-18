@@ -284,7 +284,7 @@
 
 > 【报名截止：<span class="deadline" data-deadline="2025-07-14T23:59:59">Loading...</span>】[北京理工大学（珠海）](https://grd.bitzh.edu.cn/zsgz/ssyjs/e21931ecc5854e2288945b34a9cc9694.htm)
 
-【报名截止：7.17 23：00】[空天科学与技术学院航空宇航科技](https://sae.bit.edu.cn/tzgggb/a13dad4675664a82b254fdd466944384.htm)
+~~【报名截止：7.17 23：00】[空天科学与技术学院航空宇航科技](https://sae.bit.edu.cn/tzgggb/a13dad4675664a82b254fdd466944384.htm)~~
 
 ~~【报名截止：7.16 12：00】[先进结构技术研究院](https://xjjg.bit.edu.cn/xwzx/tzgg/8b4529f21dfc43168106d800c2bf79e7.htm)~~
 
@@ -328,6 +328,8 @@
 
 【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
 
+【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)
+
 ~~【报名截止：7.6 17：00】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11360.htm)~~
 
 ~~【报名截止：5.28】[化学化工学院暨能源材料化学协同创新中心](https://chem.xmu.edu.cn/info/1272/117455.htm)~~
@@ -343,6 +345,10 @@
 【报名截止：8.8 12：00】[机械工程学院](https://me.seu.edu.cn/2025/0703/c1549a534881/page.htm)
 
 【报名截止：7.31 12：00】[能源与环境学院](https://power.seu.edu.cn/2025/0701/c9506a534737/page.htm)
+
+【报名截止：7.31 12：00】[蒙纳士大学苏州联合研究生院-机械工程学院](https://smjgs.seu.edu.cn/2025/0704/c8471a534961/page.htm)
+
+【报名截止：7.31 12：00】[蒙纳士大学苏州联合研究生院-能源与环境学院](https://smjgs.seu.edu.cn/2025/0704/c8471a534961/page.htm)
 
 【报名截止：7.31 12：00】[建筑学院&建筑研究所](hhttps://arch.seu.edu.cn/2025/0702/c9126a534853/page.htm)
 
@@ -464,9 +470,9 @@
 
 【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)
 
-【报名截止：7.17】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1366.htm)
+~~【报名截止：7.17】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1366.htm)~~
 
-【报名截止：7.17】[冶金与环境学院](https://smse.csu.edu.cn/info/1011/6375.htm)
+~~【报名截止：7.17】[冶金与环境学院](https://smse.csu.edu.cn/info/1011/6375.htm)~~
 
 ~~【报名截止：7.10 17：00】[交通运输工程学院](https://stte.csu.edu.cn/info/1064/8552.htm)~~
 
@@ -562,7 +568,7 @@
 
 > [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)|[大连理工大学预推免招生信息](https://gs.dlut.edu.cn/info/1173/16986.htm)
 
-【报名截止：7.17】[材料科学与工程学院](https://mse.dlut.edu.cn/info/1037/9231.htm)
+~~【报名截止：7.17】[材料科学与工程学院](https://mse.dlut.edu.cn/info/1037/9231.htm)~~
 
 ~~【报名截止：7.15】[力学与航空航天学院](https://lihang.dlut.edu.cn/info/1050/25021.htm)~~
 
@@ -574,6 +580,10 @@
 
 ~~【报名截止：7.12】[医学部](https://med.dlut.edu.cn/info/1003/8597.htm)~~
 
+## 中国海洋大学
+
+> 【报名截止：9.14】[中国海洋大学招生信息](https://yz.ouc.edu.cn/2025/0718/c31626a503423/page.htm)
+
 ## 中国科学院
 
 【报名截止：N/A】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/ao7AJdpYqnrMo8LM0jnElw)
@@ -584,7 +594,7 @@
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
-【报名截止：7.17】[空天信息创新研究院](https://aircas.ac.cn/kjrh/rhtzgg/202506/t20250620_7872575.html)
+~~【报名截止：7.17】[空天信息创新研究院](https://aircas.ac.cn/kjrh/rhtzgg/202506/t20250620_7872575.html)~~
 
 ~~【报名截止：7.12】[南京天光所](http://www.niaot.ac.cn/xwzx/tzgg/202506/t20250625_7874824.html)~~
 
@@ -784,7 +794,7 @@
 
 【报名截止：7.23】[新能源学院](https://mp.weixin.qq.com/s/KSE03RrdwINkmNuEwJ0npQ)
 
-【报名截止：7.17】[能源与动力工程学院](https://mp.weixin.qq.com/s/O0M4-5ZfmgXX5X2V1nxuCw)
+~~【报名截止：7.17】[能源与动力工程学院](https://mp.weixin.qq.com/s/O0M4-5ZfmgXX5X2V1nxuCw)~~
 
 ~~【报名截止：7.15 15：00】[机械工程学院](https://mp.weixin.qq.com/s/cq3LdzQ5Gn1DJVG4CL-rBw)~~
 
@@ -984,7 +994,7 @@
 
 ## 山东科技大学
 
-【报名截止：<span class="deadline" data-deadline="2025-07-22T15:00:00">Loading...</span>】[化学与生物工程学院](https://huagong.sdust.edu.cn/info/1038/6303.htm)
+【报名截止：7.22 15：00】[化学与生物工程学院](https://huagong.sdust.edu.cn/info/1038/6303.htm)
 
 ## 山西大学
 
@@ -998,9 +1008,19 @@
 
 ~~【报名截止：7.11】[机电工程学院](https://jdxy.xauat.edu.cn/info/1030/13216.htm)~~
 
+## 大连海事大学
+
+> 【报名截止：9.21】[大连海事大学招生信息](https://yz.shmtu.edu.cn/2025/0708/c8927a245262/page.htm)
+
+【报名截止：7.21】[轮机工程学院](https://grs.dlmu.edu.cn/info/1139/23531.htm)
+
 ## 兰州理工大学
 
-【报名截止：7.12 18：00】[土木与水利工程学院](https://civil.lut.edu.cn/info/1126/9866.htm)
+~~【报名截止：7.12 18：00】[土木与水利工程学院](https://civil.lut.edu.cn/info/1126/9866.htm)~~
+
+## 陕西理工大学
+
+【报名截止：8.5】[化学与环境科学学院、材料科学与工程学院、机械工程学院](https://hgxy.snut.edu.cn/info/1063/7406.htm)
 
 ## 首都体育学院
 
