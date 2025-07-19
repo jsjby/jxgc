@@ -568,6 +568,8 @@
 
 > [大连理工大学招生信息](https://gs.dlut.edu.cn/info/1173/16926.htm)|[大连理工大学预推免招生信息](https://gs.dlut.edu.cn/info/1173/16986.htm)
 
+【报名截止：9.21】[船舶工程学院](https://naoe.dlut.edu.cn/info/1711/16771.htm)
+
 ~~【报名截止：7.17】[材料科学与工程学院](https://mse.dlut.edu.cn/info/1037/9231.htm)~~
 
 ~~【报名截止：7.15】[力学与航空航天学院](https://lihang.dlut.edu.cn/info/1050/25021.htm)~~
@@ -843,6 +845,14 @@
 【报名截止：N/A】[中国人民解放军海军工程大学](https://mp.weixin.qq.com/s/gmemPjfiwzruRWYTJ5HTMA)
 
 ~~【报名截止：7.9】[电磁能技术全国重点实验室](https://mp.weixin.qq.com/s/3mdABbog0Hm6GWpyMXKyJA)~~
+
+## 中国人民解放军航天工程大学
+
+【报名截止：7.30】[航天工程大学](https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q?search_click_id=16517756066242798855-1752897824273-6362747106)
+
+## 中国人民解放军火箭军工程大学
+
+【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)
 
 ## 广东工业大学
 
