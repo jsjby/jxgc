@@ -586,6 +586,12 @@
 
 ~~【报名截止：7.12】[医学部](https://med.dlut.edu.cn/info/1003/8597.htm)~~
 
+## 中国农业大学
+
+>【报名截止：8.10 18：00】 [中国农业大学招生信息](https://yz.cau.edu.cn/art/2025/7/7/art_41740_1074970.html)
+
+【报名截止：8.10 17：00】[工学院](https://coe.cau.edu.cn/art/2025/7/22/art_39155_1076491.html)
+
 ## 中国海洋大学
 
 > 【报名截止：9.14】[中国海洋大学招生信息](https://yz.ouc.edu.cn/2025/0718/c31626a503423/page.htm)
@@ -599,6 +605,10 @@
 【报名截止：N/A】[合肥物质科学研究院核能安全技术研究所-（中国科学技术大学学籍）](https://mp.weixin.qq.com/s/3sBBBlkQOGTKdOvkH9GHSw)
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
+
+【报名截止：8.11】[过程工程研究所第二批](https://edu.ipe.ac.cn/zsxx/202507/t20250722_633490.html)
+
+【报名截止：8.10】[西安光机所](https://mp.weixin.qq.com/s/AIHoM7mW6dt3LHh3l6rcLg?click_id=6)
 
 ~~【报名截止：7.17】[空天信息创新研究院](https://aircas.ac.cn/kjrh/rhtzgg/202506/t20250620_7872575.html)~~
 
@@ -735,6 +745,8 @@
 ~~【报名截止：6.29】[交通运输学院](https://trans.bjtu.edu.cn/cms/item/3192.html)~~
 
 ## 北京科技大学
+
+【报名截止：8.15】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2025-07-21/2564.html)
 
 ~~【报名截止：7.7 12：00】[中国有研科技集团](https://mp.weixin.qq.com/s/F3CXgKsZ9B-eDmNa5oDFtg)~~
 
