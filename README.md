@@ -364,7 +364,7 @@
 
  【报名截止：7.31 12：00】[仪器科学与工程学院](https://ins.seu.edu.cn/2025/0627/c26759a534538/page.htm)
 
- 【报名截止：7.24 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0627/c20024a534565/page.htm)
+ ~~【报名截止：7.24 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0627/c20024a534565/page.htm)~~
 
  ## 国防科技大学
 
@@ -605,6 +605,8 @@
 【报名截止：N/A】[合肥物质科学研究院核能安全技术研究所-（中国科学技术大学学籍）](https://mp.weixin.qq.com/s/3sBBBlkQOGTKdOvkH9GHSw)
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
+
+【报名截止：9.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202507/t20250723_7894903.html)
 
 【报名截止：8.11】[过程工程研究所第二批](https://edu.ipe.ac.cn/zsxx/202507/t20250722_633490.html)
 
