@@ -70,6 +70,8 @@
 
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
 
+【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/TwQ0AXF7lS2_tFGP_JVqUg)
+
 ~~【报名截止：7.10 17：00】[溥渊未来技术学院-延迟报名时间](https://mp.weixin.qq.com/s/qQHFrgrcz5znqfFgcamTGw)~~
 
 ~~【报名截止：7.3】[董浩云智能制造与服务管理研究院（中美物流研究院）-更改时间](https://mp.weixin.qq.com/s/NlIUW4jghSAy1qnAlOx15Q)~~
@@ -151,6 +153,8 @@
 ## 中国科学技术大学
 
 > 【报名截止：6.30】[中国科学技术大学招生信息](https://yz.ustc.edu.cn/article/2786/182?num=-1)
+
+【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/_y8pplCy6hgSvJpf0bqxDA)
 
 ~~【报名截止：6.30】[国家示范性微电子学院院](https://sme.ustc.edu.cn/2025/0620/c31027a688250/page.htm)~~
 
@@ -729,6 +733,8 @@
 > [西安电子科技大学招生信息](https://gr.xidian.edu.cn/info/1074/16714.htm)
 
 【报名截止：N/A】[机电工程学院](https://eme.xidian.edu.cn/info/1012/12626.htm)
+
+【报名截止：9.25 18：00】[先进材料与纳米科技学院](https://amn.xidian.edu.cn/info/1013/14972.htm)
 
 【报名截止：9.20】[信息力学与感知工程学院](https://imse.xidian.edu.cn/info/1024/3401.htm)
 
