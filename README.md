@@ -540,6 +540,10 @@
 
 ~~【报名截止：6.23 9:00】[机械工程学院 ](https://msec.scu.edu.cn/info/1091/6417.htm)~~
 
+## 湖南大学
+
+> [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
+
 ## 东北大学
 
 > [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
@@ -738,6 +742,10 @@
 
 【报名截止：9.20】[信息力学与感知工程学院](https://imse.xidian.edu.cn/info/1024/3401.htm)
 
+【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
+
+【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
+
 ## 北京交通大学
 
 > [北京交通大学招生信息](https://yzb.bjtu.edu.cn/tzgg/cf698483c20948348ac9af8ea1131cc7.htm)
@@ -753,6 +761,8 @@
 ~~【报名截止：6.29】[交通运输学院](https://trans.bjtu.edu.cn/cms/item/3192.html)~~
 
 ## 北京科技大学
+
+> [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|[北京科技大学推免招生信息](https://yzxc.ustb.edu.cn/xlytm/hdap/8da9fa228a654def926a2326b86ca899.htm)
 
 【报名截止：8.15】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2025-07-21/2564.html)
 
