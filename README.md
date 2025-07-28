@@ -328,6 +328,8 @@
 
 ## 武汉大学
 
+【报名截止：N/A】[机器人学院](https://mp.weixin.qq.com/s/47-48A2FNH0cNRLT7dvXvA)
+
 ~~【报名截止：7.1】[水利水电学院](https://swrh.whu.edu.cn/info/1041/103171.htm)~~
 
 ~~【报名截止：6.29 12：00】[计算机学院](https://cs.whu.edu.cn/info/1071/54711.htm)~~
@@ -882,6 +884,10 @@
 
 ~~【报名截止：7.9】[电磁能技术全国重点实验室](https://mp.weixin.qq.com/s/3mdABbog0Hm6GWpyMXKyJA)~~
 
+## 中国人民解放军空军工程大学
+
+【报名截止：7.30 18：00】[空军工程大学](https://mp.weixin.qq.com/s/nh9hrXqMRUTjzifjhexq7g)
+
 ## 中国人民解放军航天工程大学
 
 【报名截止：7.30】[航天工程大学](https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q?search_click_id=16517756066242798855-1752897824273-6362747106)
@@ -913,6 +919,10 @@
 ~~【报名截止：6.20】[（武汉）新能源学院](https://energy.cug.edu.cn/info/1014/3919.htm)~~
 
 ## 中国石油大学
+
+> [中国石油大学(北京）招生信息](https://grs.cup.edu.cn/zssstzgg/91256.jhtml)
+
+【报名截止：9.7】[（北京）石油工程学院](https://www.cup.edu.cn/oil/zsjy/zsxx/c3563fff9e8842f394ea4f7aa70e3e80.htm)
 
 【报名截止：8.1 15：00】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/1399127416cc4aee8259f156421112a9.htm)
 
