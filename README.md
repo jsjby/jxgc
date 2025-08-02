@@ -136,6 +136,8 @@
 
 【报名截止：9.10 12：00】[台州研究院](https://mp.weixin.qq.com/s/5MOfvP8urYMG1FkX6GR-qg)
 
+【报名截止：9.10 12：00】[工程师学院宁波分院](https://mp.weixin.qq.com/s/aa8Qiy6y7TYqH4Anht4ilQ)
+
 【报名截止：9.9 17：00】[海洋学院](http://oc.zju.edu.cn/2025/0728/c52420a3071991/page.htm)
 
 【报名截止：9.9 12：00】[软件学院](http://www.cst.zju.edu.cn/2025/0730/c32178a3072203/page.htm)
@@ -625,6 +627,8 @@
 ## 中国农业大学
 
 >【报名截止：8.10 18：00】 [中国农业大学招生信息](https://yz.cau.edu.cn/art/2025/7/7/art_41740_1074970.html)
+
+【报名截止：8.10 17:00】[应用力学系](https://mp.weixin.qq.com/s/MH-MjRyMte3kMAr33yq9VA)
 
 【报名截止：8.10 17：00】[工学院](https://coe.cau.edu.cn/art/2025/7/22/art_39155_1076491.html)
 
