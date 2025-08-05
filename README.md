@@ -502,7 +502,7 @@
 
 ## 中南大学
 
-【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)
+~~【报名截止：7.27】[自动化学院](https://soa.csu.edu.cn/info/1032/9007.htm)~~
 
 ~~【报名截止：7.17】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1366.htm)~~
 
@@ -571,6 +571,8 @@
 ## 湖南大学
 
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
+
+【报名截止：N/A】[国家卓越工程师学院](https://ngcee.hnu.edu.cn/info/1083/3067.htm)
 
 ## 东北大学
 
@@ -649,6 +651,8 @@
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
 【报名截止：9.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202507/t20250723_7894903.html)
+
+【报名截止：9.18】[国际前沿科学研究院](https://mp.weixin.qq.com/s/311howrn39fb4JadfmAoNA)
 
 【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)
 
@@ -804,6 +808,8 @@
 
 > [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|[北京科技大学推免招生信息](https://yzxc.ustb.edu.cn/xlytm/hdap/8da9fa228a654def926a2326b86ca899.htm)
 
+【报名截止：8.31】[自动化学院](https://saee.ustb.edu.cn/tzgg/4614080f756f419da52fb195d99eee2d.htm)
+
 【报名截止：8.15】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2025-07-21/2564.html)
 
 ~~【报名截止：7.7 12：00】[中国有研科技集团](https://mp.weixin.qq.com/s/F3CXgKsZ9B-eDmNa5oDFtg)~~
@@ -813,6 +819,8 @@
 ## 上海科技大学
 
 【报名截止：9.19】[创意与艺术学院](https://mp.weixin.qq.com/s/Tr3w2ZOzhuVQMmocuaN6sg?search_click_id=2396021997672812027-1754114183321-3100943485)
+
+【报名截止：9.18】[物质科学与技术学院](https://mp.weixin.qq.com/s/teXmpkTsa19CmBC2hw-WXg?click_id=91)
 
 ~~【报名截止：6.22】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2025/0504/c7339a1110662/page.htm)~~
 
@@ -845,6 +853,8 @@
 ## 南京航空航天大学
 
 > [南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0617/c2145a378429/page.htm)|> 【报名截止：9.19】[南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0802/c13502a380731/page.htm)
+
+【报名截止：9.18】[国际前沿科学研究院](https://mp.weixin.qq.com/s/311howrn39fb4JadfmAoNA)
 
 【报名截止：9.1】[航空学院系所](https://aero.nuaa.edu.cn/2025/0705/c4293a379634/page.htm)
 
@@ -932,15 +942,15 @@
 
 ## 中国人民解放军空军工程大学
 
-【报名截止：7.30 18：00】[空军工程大学](https://mp.weixin.qq.com/s/nh9hrXqMRUTjzifjhexq7g)
+~~【报名截止：7.30 18：00】[空军工程大学](https://mp.weixin.qq.com/s/nh9hrXqMRUTjzifjhexq7g)~~
 
 ## 中国人民解放军航天工程大学
 
-【报名截止：7.30】[航天工程大学](https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q?search_click_id=16517756066242798855-1752897824273-6362747106)
+~~【报名截止：7.30】[航天工程大学](https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q?search_click_id=16517756066242798855-1752897824273-6362747106)~~
 
 ## 中国人民解放军火箭军工程大学
 
-【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)
+~~【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)~~
 
 ## 广东工业大学
 
@@ -974,7 +984,7 @@
 
 【报名截止：8.6 12：00】[安全与海洋工程学院](https://www.cup.edu.cn/safety/tzgg/bee7d540ccfa4a9fbaff17723afe39ad.htm)
 
-【报名截止：8.1 15：00】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/1399127416cc4aee8259f156421112a9.htm)
+~~【报名截止：8.1 15：00】[（北京）新能源与材料学院](https://www.cup.edu.cn/cnem/tzgg/1399127416cc4aee8259f156421112a9.htm)~~
 
 ~~【报名截止：7.18】[（北京）石油工程学院](https://www.cup.edu.cn/oil/zsjy/zsxx/a4d8d35d51bc4380a158c6e0116dcb71.htm)~~
 
@@ -1102,7 +1112,7 @@
 
 ## 山东科技大学
 
-【报名截止：7.22 15：00】[化学与生物工程学院](https://huagong.sdust.edu.cn/info/1038/6303.htm)
+~~【报名截止：7.22 15：00】[化学与生物工程学院](https://huagong.sdust.edu.cn/info/1038/6303.htm)~~
 
 ## 山西大学
 
@@ -1130,7 +1140,7 @@
 
 ## 陕西理工大学
 
-【报名截止：8.5】[化学与环境科学学院、材料科学与工程学院、机械工程学院](https://hgxy.snut.edu.cn/info/1063/7406.htm)
+~~【报名截止：8.5】[化学与环境科学学院、材料科学与工程学院、机械工程学院](https://hgxy.snut.edu.cn/info/1063/7406.htm)~~
 
 ## 首都体育学院
 
