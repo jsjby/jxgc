@@ -116,6 +116,8 @@
 
 ## 南京大学
 
+> 【报名截止：9.15】[南京大学招生信息](https://yzb.nju.edu.cn/cb/be/c47863a773054/page.htm)
+
 ~~【报名截止：6.24】[能源与资源学院](https://sser.nju.edu.cn/info/1012/3461.htm)~~
 
 ~~【报名截止：6.22 17：00】[现代工程与应用科学学院](https://eng.nju.edu.cn/a9/3ac4968a764218/pagem.htm)~~
