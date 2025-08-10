@@ -72,6 +72,8 @@
 
 【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/TwQ0AXF7lS2_tFGP_JVqUg)
 
+【报名截止：8.24】[董浩云智能制造与服务管理研究院](http://www.sugli.sjtu.edu.cn/stu_info/3032.html)
+
 ~~【报名截止：7.10 17：00】[溥渊未来技术学院-延迟报名时间](https://mp.weixin.qq.com/s/qQHFrgrcz5znqfFgcamTGw)~~
 
 ~~【报名截止：7.3】[董浩云智能制造与服务管理研究院（中美物流研究院）-更改时间](https://mp.weixin.qq.com/s/NlIUW4jghSAy1qnAlOx15Q)~~
@@ -220,6 +222,8 @@
 
 【报名截止：9.10】[航天学院-航空宇航科学与技术学科](https://sa.hit.edu.cn/2025/0708/c6582a373313/page.htm)
 
+【报名截止：9.10】[（深圳）智能学部](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1521)
+
 【报名截止：9.10】[航天学院-航材料科学与工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373315/page.htm)
 
 【报名截止：9.10】[材料科学与工程学院](https://mse.hit.edu.cn/2025/0630/c20611a372870/page.htm)
@@ -229,6 +233,8 @@
 【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
 
 【报名截止：8.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0704/c17101a373174/page.htm)
+
+【报名截止：8.14】[苏州研究院](https://sri.hit.edu.cn/2025/0808/c17245a376222/page.htm)
 
 ~~【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)~~
 
@@ -1133,6 +1139,12 @@
 ## 山西大学
 
 ~~【报名截止：7.1 12：00】[自动化与软件学院](https://zdhse.sxu.edu.cn/zxgg/c47fa2ffd5d64247872f935ccce91f7a.htm)~~
+
+## 合肥工业大学
+
+> [合肥工业大学招生信息](https://yjszs.hfut.edu.cn/2025/0702/c13524a313509/pagem.htm)
+
+【报名截止：8.18 17：00】[汽车与交通工程学院](https://civil.hfut.edu.cn/2025/0807/c8480a314033/page.htm)
 
 ## 成都理工大学
 
