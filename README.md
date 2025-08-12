@@ -146,6 +146,8 @@
 
 【报名截止：9.9 12：00】[软件学院](http://www.cst.zju.edu.cn/2025/0730/c32178a3072203/page.htm)
 
+【报名截止：9.8 20：00】[机械工程学院](http://me.zju.edu.cn/mecn/2025/0810/c13400a3073846/page.htm)
+
 【报名截止：9.8 12：00】[计算机科学与技术学院](http://www.cs.zju.edu.cn/csen/2025/0728/c27006a3071976/page.htm)
 
 【报名截止：9.8】[航空航天学院](http://saa.zju.edu.cn/2025/0728/c67589a3071830/page.htm)
@@ -366,6 +368,8 @@
 
 ## 厦门大学
 
+【报名截止：9.5】[能源学院](https://energy.xmu.edu.cn/info/1082/17279.htm)
+
 【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
 
 【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)
@@ -378,9 +382,9 @@
 
 > [东南大学招生信息](https://yzb.seu.edu.cn/2025/0625/c6676a534395/page.htm)
 
-【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)
+~~【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)~~
 
-【报名截止：8.10 20：00】[统计与数据科学学院](https://stat.seu.edu.cn/2025/0708/c60842a535073/page.htm)
+~~【报名截止：8.10 20：00】[统计与数据科学学院](https://stat.seu.edu.cn/2025/0708/c60842a535073/page.htm)~~
 
 ~~【报名截止：8.8 12：00】[机械工程学院](https://me.seu.edu.cn/2025/0703/c1549a534881/page.htm)~~
 
@@ -490,9 +494,9 @@
 
 ## 中山大学
 
-【报名截止：8.10】[航空航天学院](https://saa.sysu.edu.cn/article/753)
+~~【报名截止：8.10】[航空航天学院](https://saa.sysu.edu.cn/article/753)~~
 
-【报名截止：8.8】[智能工程学院](https://ise.sysu.edu.cn/article/1544)
+~~【报名截止：8.8】[智能工程学院](https://ise.sysu.edu.cn/article/1544)~~
 
 ~~【报名截止：7.10】[智能工程学院](https://ise.sysu.edu.cn/article/1522)~~
 
@@ -644,9 +648,9 @@
 
 >【报名截止：8.10 18：00】 [中国农业大学招生信息](https://yz.cau.edu.cn/art/2025/7/7/art_41740_1074970.html)
 
-【报名截止：8.10 17:00】[应用力学系](https://mp.weixin.qq.com/s/MH-MjRyMte3kMAr33yq9VA)
+~~【报名截止：8.10 17:00】[应用力学系](https://mp.weixin.qq.com/s/MH-MjRyMte3kMAr33yq9VA)~~
 
-【报名截止：8.10 17：00】[工学院](https://coe.cau.edu.cn/art/2025/7/22/art_39155_1076491.html)
+~~【报名截止：8.10 17：00】[工学院](https://coe.cau.edu.cn/art/2025/7/22/art_39155_1076491.html)~~
 
 ## 中国海洋大学
 
@@ -662,17 +666,21 @@
 
 【报名截止：N/A】[上海硅酸盐研究所](https://mp.weixin.qq.com/s/f46H25UE2T5OZcPTx6l3Yw)
 
+【报名截止：N/A】[宁波材料技术与工程研究所-复试9月中上旬](https://graduate.nimte.ac.cn/view-31953.html)
+
 【报名截止：9.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202507/t20250723_7894903.html)
 
 【报名截止：9.18】[国际前沿科学研究院](https://mp.weixin.qq.com/s/311howrn39fb4JadfmAoNA)
 
+【报名截止：9.10】[理化技术研究所](https://ipc.cas.cn/yjsjy2019/zsxx/202508/t20250811_7903303.html)
+
 【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)
 
-【报名截止：8.12 17：00】[沈阳自动化研究所](https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202507/t20250728_7897411.html)
+~~【报名截止：8.12 17：00】[沈阳自动化研究所](https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202507/t20250728_7897411.html)~~
 
-【报名截止：8.11】[过程工程研究所第二批](https://edu.ipe.ac.cn/zsxx/202507/t20250722_633490.html)
+~~【报名截止：8.11】[过程工程研究所第二批](https://edu.ipe.ac.cn/zsxx/202507/t20250722_633490.html)~~
 
-【报名截止：8.10】[西安光机所](https://mp.weixin.qq.com/s/AIHoM7mW6dt3LHh3l6rcLg?click_id=6)
+~~【报名截止：8.10】[西安光机所](https://mp.weixin.qq.com/s/AIHoM7mW6dt3LHh3l6rcLg?click_id=6)~~
 
 ~~【报名截止：7.17】[空天信息创新研究院](https://aircas.ac.cn/kjrh/rhtzgg/202506/t20250620_7872575.html)~~
 
@@ -796,7 +804,7 @@
 
 【报名截止：9.20】[信息力学与感知工程学院](https://imse.xidian.edu.cn/info/1024/3401.htm)
 
-【报名截止：9.19】[空间科学与技术学院](https://see.xidian.edu.cn/html/news/12493.html)
+【报名截止：9.19】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/13647.htm)
 
 【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
@@ -899,6 +907,8 @@
 > [西湖大学招生信息](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202508/t20250801_57102.shtml)
 
 【报名截止：N/A】[工学院人工智能与科学仿真发现实验室](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw)
+
+【报名截止：9.1 10:00】[工学院](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202508/t20250808_57305.shtml)
 
 ~~【报名截止：6.26 10：00】[工学院](https://engineering.westlake.edu.cn/NewsEvents/LatestNews/202504/t20250430_55211.shtml)~~
 
@@ -1101,6 +1111,14 @@
 ~~【报名截止：7.20】[石油工程学院](https://pec.yangtzeu.edu.cn/info/1038/5819.htm)~~
 
 ~~【报名截止：7.1】[电子信息与电气工程学院](https://dxxy.yangtzeu.edu.cn/info/1055/4805.htm)~~
+
+## 长安大学
+
+> [长安大学招生信息](https://yzb.chd.edu.cn/2025/0809/c2770a254078/page.htm)
+
+【报名截止：N/A】[工程机械学院](https://cmcs.chd.edu.cn/2025/0810/c8633a254083/page.htm)
+
+【报名截止：N/A】[能源与电气工程学院](https://ndxy.chd.edu.cn/info/1068/2996.htm)
 
 ## 江南大学
 
