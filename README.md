@@ -964,6 +964,10 @@
 
 ~~【报名截止：7.1】[化学与环境工程学院](https://mp.weixin.qq.com/s/dvHX3nH_OPPNsOcV4_1waQ)~~
 
+## 杭州电子科技大学
+
+【报名截止：9.22】[杭州电子科技大学](https://grs.hdu.edu.cn/2024/0913/c13785a270374/page.htm)
+
 ## 中国人民解放军海军工程大学
 
 【报名截止：N/A】[中国人民解放军海军工程大学](https://mp.weixin.qq.com/s/gmemPjfiwzruRWYTJ5HTMA)
