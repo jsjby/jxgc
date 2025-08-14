@@ -858,6 +858,10 @@
 
 【报名截止：N/A】[力学与航空航天工程系-报名预计截止9月底](https://mp.weixin.qq.com/s/t644T2hXmJ7zRkY99QnWvg)
 
+【报名截止：8.31】[生物医学工程系](https://bme.sustech.edu.cn/education/information/)
+
+【报名截止：8.31 17：30】[创新创意设计学院](https://mp.weixin.qq.com/s/hWWbNn398VJ8qV9OL_uQ1w)
+
 【报名截止：8.28】[机械与能源工程系](https://mp.weixin.qq.com/s/NIDx-ZbQ-hTIogSZorAK_w)
 
 【报名截止：8.20 17：30】[自动化与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=490)
@@ -1055,6 +1059,8 @@
 ## 上海大学
 
 【报名截止：N/A】[无人艇工程研究院](https://jhai.shu.edu.cn/info/1042/1757.htm)
+
+【报名截止：8.20】[微电子学院](https://sme.shu.edu.cn/info/1030/6062.htm)
 
 ~~【报名截止：6.29】[机电工程与自动化学院机械工程学科](https://auto.shu.edu.cn/info/1123/82082.htm)~~
 
