@@ -150,6 +150,8 @@
 
 【报名截止：9.8 12：00】[计算机科学与技术学院](http://www.cs.zju.edu.cn/csen/2025/0728/c27006a3071976/page.htm)
 
+【报名截止：9.8】[能源工程学院 ](http://www.doe.zju.edu.cn/2025/0727/c74392a3071725/page.htm)
+
 【报名截止：9.8】[航空航天学院](http://saa.zju.edu.cn/2025/0728/c67589a3071830/page.htm)
 
 ~~【报名截止：7.2】[伊利诺伊大学厄巴纳香槟校区联合学院](https://zjui.intl.zju.edu.cn/node/3061)~~
@@ -236,7 +238,7 @@
 
 【报名截止：8.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0704/c17101a373174/page.htm)
 
-【报名截止：8.14】[苏州研究院](https://sri.hit.edu.cn/2025/0808/c17245a376222/page.htm)
+~~【报名截止：8.14】[苏州研究院](https://sri.hit.edu.cn/2025/0808/c17245a376222/page.htm)~~
 
 ~~【报名截止：7.13】[郑州研究院院](https://zri.hit.edu.cn/2025/0620/c13996a372501/page.htm)~~
 
@@ -340,7 +342,7 @@
 
 【报名截止：8.20】[福州国际联合学院-导师团](https://fz.tju.edu.cn/info/1029/1944.htm)
 
-【报名截止：8.15】[材料科学与工程学院-导师团](https://mse.tju.edu.cn/info/1133/4586.htm)
+~~【报名截止：8.15】[材料科学与工程学院-导师团](https://mse.tju.edu.cn/info/1133/4586.htm)~~
 
 ~~【报名截止：7.15】[环境科学与工程学院](https://tjusee.tju.edu.cn/info/1126/4667.htm)~~
 
@@ -354,7 +356,7 @@
 
 【报名截止：9.7】[卓越工程师学院](https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index?id=27)
 
-【报名截止：8.15】[化学学院](https://chem.nankai.edu.cn/2025/0706/c24089a574934/page.htm)
+~~【报名截止：8.15】[化学学院](https://chem.nankai.edu.cn/2025/0706/c24089a574934/page.htm)~~
 
 ~~【报名截止：6.18】[特种化学电源全国重点实验室](https://chem.nankai.edu.cn/2025/0606/c24089a572528/page.htm)~~
 
@@ -372,7 +374,7 @@
 
 【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
 
-【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)
+~~【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)~~
 
 ~~【报名截止：7.6 17：00】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11360.htm)~~
 
@@ -544,7 +546,7 @@
 
 > 【报名截止：9.30 18：00】[重庆大学招生信息](https://yz.cqu.edu.cn/news/2025-07/2357.html)
 
-【报名截止：8.15】[生物工程学院](https://bio.cqu.edu.cn/info/1305/6424.htm)
+~~【报名截止：8.15】[生物工程学院](https://bio.cqu.edu.cn/info/1305/6424.htm)~~
 
 ~~【报名截止：7.10】[土木工程学院](https://civil.cqu.edu.cn/info/1493/17586.htm)~~
 
@@ -556,7 +558,7 @@
 
 ## 吉林大学
 
-【报名截止：8.15 16：00】[新能源与环境学院](https://cer.jlu.edu.cn/info/1102/9354.htm)
+~~【报名截止：8.15 16：00】[新能源与环境学院](https://cer.jlu.edu.cn/info/1102/9354.htm)~~
 
 ~~【报名截止：7.6 16：00】[仪器科学与电气工程学院](https://ciee.jlu.edu.cn/info/1082/15019.htm)~~
 
@@ -657,6 +659,8 @@
 > 【报名截止：9.14】[中国海洋大学招生信息](https://yz.ouc.edu.cn/2025/0718/c31626a503423/page.htm)
 
 ## 中国科学院
+
+【报名截止：N/A】[国家天文台](https://nao.cas.cn/jypy/jy/202508/t20250815_7905066.html)
 
 【报名截止：N/A】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/ao7AJdpYqnrMo8LM0jnElw)
 
@@ -836,7 +840,7 @@
 
 【报名截止：8.24】[顺德创新学院](https://sd.ustb.edu.cn/tzgg/64a1d9ba6ee94cf5a5a2f22fe02ecfc8.htm)
 
-【报名截止：8.15】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2025-07-21/2564.html)
+~~【报名截止：8.15】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2025-07-21/2564.html)~~
 
 ~~【报名截止：7.7 12：00】[中国有研科技集团](https://mp.weixin.qq.com/s/F3CXgKsZ9B-eDmNa5oDFtg)~~
 
