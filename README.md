@@ -862,6 +862,8 @@
 
 【报名截止：N/A】[力学与航空航天工程系-报名预计截止9月底](https://mp.weixin.qq.com/s/t644T2hXmJ7zRkY99QnWvg)
 
+【报名截止：9.1 9：00】[创新创业学院](http://ie-school.sustech.edu.cn/page/content?id=690)
+
 【报名截止：8.31】[生物医学工程系](https://bme.sustech.edu.cn/education/information/)
 
 【报名截止：8.31 17：30】[创新创意设计学院](https://mp.weixin.qq.com/s/hWWbNn398VJ8qV9OL_uQ1w)
@@ -991,6 +993,8 @@
 ~~【报名截止：7.30】[航天工程大学](https://mp.weixin.qq.com/s/QutGrQwGT1A1va7FE6zT2Q?search_click_id=16517756066242798855-1752897824273-6362747106)~~
 
 ## 中国人民解放军火箭军工程大学
+
+【报名截止：8.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/XCqa11_TkmKwwYnrmSJqAw?scene=1&click_id=9)
 
 ~~【报名截止：7.30 12：00】[火箭军工程大学](https://mp.weixin.qq.com/s/DV6mu92s0TY4p2chYlpnyA)~~
 
@@ -1132,6 +1136,8 @@
 
 【报名截止：N/A】[工程机械学院](https://cmcs.chd.edu.cn/2025/0810/c8633a254083/page.htm)
 
+【报名截止：N/A】[汽车学院-8月11日报名](https://mp.weixin.qq.com/s/M7a1A2J5rPsWYrSAy7uprg?scene=1&click_id=4)
+
 【报名截止：N/A】[能源与电气工程学院](https://ndxy.chd.edu.cn/info/1068/2996.htm)
 
 ## 江南大学
@@ -1251,6 +1257,8 @@
 ~~【报名截止：7.15】[中国铁道科学研究院](https://mp.weixin.qq.com/s/RekSmwEBj7d3h1L3b71nRA)~~
 
 ## 中国航天科工集团
+
+【报名截止：8.22 17：00】[第二研究院](https://mp.weixin.qq.com/s/nPc7yDNdKgtURRp32JsciA)
 
 ~~【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)~~
 
