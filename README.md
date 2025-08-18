@@ -672,6 +672,8 @@
 
 【报名截止：N/A】[宁波材料技术与工程研究所-复试9月中上旬](https://graduate.nimte.ac.cn/view-31953.html)
 
+【报名截止：9.26】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202508/t20250818_7906179.html)
+
 【报名截止：9.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202507/t20250723_7894903.html)
 
 【报名截止：9.18】[国际前沿科学研究院](https://mp.weixin.qq.com/s/311howrn39fb4JadfmAoNA)
