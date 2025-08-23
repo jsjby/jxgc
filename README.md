@@ -496,6 +496,8 @@
 
 ## 中山大学
 
+【报名截止：8.28 12：00】[中法核工程与技术学院](https://ifcen.sysu.edu.cn/article/1490)
+
 ~~【报名截止：8.10】[航空航天学院](https://saa.sysu.edu.cn/article/753)~~
 
 ~~【报名截止：8.8】[智能工程学院](https://ise.sysu.edu.cn/article/1544)~~
@@ -660,6 +662,8 @@
 
 ## 中国科学院
 
+【报名截止：N/A】[空天信息创新研究院-九月](https://mp.weixin.qq.com/s/OeP0gBqMUcYy0bs1Unsaxg)
+
 【报名截止：N/A】[国家天文台](https://nao.cas.cn/jypy/jy/202508/t20250815_7905066.html)
 
 【报名截止：N/A】[空间应用工程与技术中心](https://mp.weixin.qq.com/s/ao7AJdpYqnrMo8LM0jnElw)
@@ -676,11 +680,13 @@
 
 【报名截止：9.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202507/t20250723_7894903.html)
 
+【报名截止：9.20】[小卫星创新研究院](https://www.microsate.com/yajsjy/sszsxx/202508/t20250820_7907973.html)
+
 【报名截止：9.18】[国际前沿科学研究院](https://mp.weixin.qq.com/s/311howrn39fb4JadfmAoNA)
 
 【报名截止：9.10】[理化技术研究所](https://ipc.cas.cn/yjsjy2019/zsxx/202508/t20250811_7903303.html)
 
-【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)
+~~【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)~~
 
 ~~【报名截止：8.12 17：00】[沈阳自动化研究所](https://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202507/t20250728_7897411.html)~~
 
@@ -872,7 +878,7 @@
 
 【报名截止：8.28】[机械与能源工程系](https://mp.weixin.qq.com/s/NIDx-ZbQ-hTIogSZorAK_w)
 
-【报名截止：8.20 17：30】[自动化与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=490)
+~~【报名截止：8.20 17：30】[自动化与智能制造学院](https://sdim.sustech.edu.cn/index/show?id=490)~~
 
 ~~【报名截止：6.18】[生物医学工程系](https://mp.weixin.qq.com/s/ZENQ4XITj3XDnmb5Y4FiDA)~~
 
@@ -893,6 +899,10 @@
 ## 南京航空航天大学
 
 > [南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0617/c2145a378429/page.htm)|> 【报名截止：9.19】[南京航空航天大学招生信息](http://www.graduate.nuaa.edu.cn/2025/0802/c13502a380731/page.htm)
+ 
+【报名截止：9.19 00：00】[机电学院](https://cmee.nuaa.edu.cn/2025/0821/c17776a381441/page.htm)
+
+【报名截止：9.19 00：00】[能源与动力学院](https://cepe.nuaa.edu.cn/2025/0819/c15759a381418/page.htm)
 
 【报名截止：9.18】[国际前沿科学研究院](https://mp.weixin.qq.com/s/311howrn39fb4JadfmAoNA)
 
@@ -919,6 +929,8 @@
 > [西湖大学招生信息](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202508/t20250801_57102.shtml)
 
 【报名截止：N/A】[工学院人工智能与科学仿真发现实验室](https://mp.weixin.qq.com/s/SLQCiaiiMurWKkETaTRJyw)
+
+【报名截止：9.8 10：00】[直博生](https://mp.weixin.qq.com/s/JiBZnJ6oEZ-TZe9X3t5nfQ)
 
 【报名截止：9.1 10:00】[工学院](https://engineering.westlake.edu.cn/Admission/GraduateProgram/zszx_2623/202508/t20250808_57305.shtml)
 
@@ -1074,6 +1086,10 @@
 
 ~~【报名截止：6.29】[机电工程与自动化学院机械工程学科](https://auto.shu.edu.cn/info/1123/82082.htm)~~
 
+## 上海海事大学
+
+【报名截止：9.21】[商船学院](https://mp.weixin.qq.com/s/xmS4A3qbF0flKAoZThy5fw?click_id=34)
+
 ## 上海海洋大学
 
 【报名截止：N/A】[工程学院](https://mp.weixin.qq.com/s/kwaa4S4pmwGz5cHGmObVxg)
@@ -1117,6 +1133,10 @@
 ~~【报名截止：7.9】[机电与控制工程学院](https://cmce.szu.edu.cn/info/1015/5683.htm)~~
 
 ## 湖南工商大学
+
+【报名截止：9.10】[前沿交叉学院(大数据与互联网创新研究院)、管理科学与工程学院、人工智能与先进计算学院（湘江书院、未来技术学院）、智能机器人学院、新能源与新材料学院、智慧生物医学工程学院](https://qyjc.hutb.edu.cn/p117/tzgg/20250822/172417.html)
+
+【报名截止：9.10】[智能工程与智能制造学院](https://sieim.hutb.edu.cn/p128/tzgg2/20250821/172386.html)
 
 ~~【报名截止：6.30】[智能工程与智能制造学院](https://sieim.hutb.edu.cn/p128/tzgg2/20250625/170712.html)~~
 
@@ -1260,7 +1280,7 @@
 
 ## 中国航天科工集团
 
-【报名截止：8.22 17：00】[第二研究院](https://mp.weixin.qq.com/s/nPc7yDNdKgtURRp32JsciA)
+~~【报名截止：8.22 17：00】[第二研究院](https://mp.weixin.qq.com/s/nPc7yDNdKgtURRp32JsciA)~~
 
 ~~【报名截止：7.4 17：00】[第二研究院](https://mp.weixin.qq.com/s/-mmGj4Fsi5En6-3oA79wxg)~~
 
