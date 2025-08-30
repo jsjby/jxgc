@@ -606,7 +606,7 @@
 
 ## 东北大学
 
-> [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
+> [东北大学秦皇岛分校招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)|[东北大学推免招生信息](http://yz.neu.edu.cn/2025/0827/c5932a290512/pagem.htm)
 
 ~~【报名截止：7.6】[冶金学院](http://www.som.neu.edu.cn/2025/0701/c10575a288726/page.htm)~~
 
@@ -692,13 +692,19 @@
 
 【报名截止：9.26】[上海应用物理研究所](https://www.sinap.cas.cn/yjsjynew/zsjz/sszs_177904/202508/t20250818_7906179.html)
 
+【报名截止：9.21】[西安光学精密机械研究所](https://yjsb.ioe.ac.cn/zs/sszs/info/2025/51480.html)
+
 【报名截止：9.20】[上海光机所](https://siom.cas.cn/rcjy/zsxx/sszs/202507/t20250723_7894903.html)
 
 【报名截止：9.20】[小卫星创新研究院](https://www.microsate.com/yajsjy/sszsxx/202508/t20250820_7907973.html)
 
 【报名截止：9.18】[国际前沿科学研究院](https://mp.weixin.qq.com/s/311howrn39fb4JadfmAoNA)
 
+【报名截止：9.18】[长春光机所](https://yjs.ciomp.ac.cn/news_show.aspx?id=1928)
+
 【报名截止：9.15 12：00】[深圳先进技术研究院](https://mp.weixin.qq.com/s/ocy_-FHezuu-CVDB6Zpb1g)
+
+【报名截止：9.14】[山西煤炭化学研究所](https://edu.sxicc.ac.cn/zsgl/sszs/202508/t20250829_678817.html)
 
 【报名截止：9.10】[理化技术研究所](https://ipc.cas.cn/yjsjy2019/zsxx/202508/t20250811_7903303.html)
 
@@ -964,6 +970,8 @@
 
 【报名截止：9.15】[能源与动力工程学院](https://nd.njust.edu.cn/65/ae/c1888a353710/page.htm)
 
+【报名截止：9.15】[新能源学院](https://xny.njust.edu.cn/65/fd/c15488a353789/page.htm)
+
 【报名截止：9.15】[中法工程师学院](https://sfesn.njust.edu.cn/65/c0/c10325a353728/page.htm)
 
 【报名截止：9.14】[自动化学院](https://au.njust.edu.cn/65/b2/c18338a353714/page.htm)
@@ -991,6 +999,10 @@
 ## 华南农业大学
 
 ~~【报名截止：6.29】[工程学院](https://gcxy.scau.edu.cn/2025/0624/c2105a412438/page.htm)~~
+
+## 华中师范大学
+
+> 【报名截止：9.14】[华中师范大学招生信息](https://graduate.neuq.edu.cn/info/1099/5446.htm)
 
 ## 华北电力大学
 
@@ -1021,6 +1033,12 @@
 ## 杭州电子科技大学
 
 【报名截止：9.22】[杭州电子科技大学](https://grs.hdu.edu.cn/2024/0913/c13785a270374/page.htm)
+
+## 苏州大学
+
+> [苏州大学招生信息](https://yjs.suda.edu.cn/3d/40/c8386a671040/page.htm)
+
+【报名截止：N/A】[未来科学与工程学院](https://future.suda.edu.cn/46/53/c30836a673363/page.htm)
 
 ## 中国人民解放军海军工程大学
 
@@ -1053,6 +1071,8 @@
 ~~【报名截止：6.6】[材料与物理学院](https://smsp.cumt.edu.cn/66/41/c18894a681537/page.htm)~~
 
 ## 中国地质大学
+
+> [中国地质大学招生信息](https://yz.cug.edu.cn/page/detail/PVKZRL/697/63577)
 
 ~~【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)~~
 
@@ -1263,6 +1283,10 @@
 【报名截止：8.21】[自动化与电气工程学院](https://dianqi.lut.edu.cn/info/1285/12972.htm)
 
 ~~【报名截止：7.12 18：00】[土木与水利工程学院](https://civil.lut.edu.cn/info/1126/9866.htm)~~
+
+## 暨南大学
+
+> 【报名截止：9.14】[暨南大学招生信息-更改报名时间](https://yz.jnu.edu.cn/2025/0721/c33059a840936/page.htm)
 
 ## 陕西理工大学
 
