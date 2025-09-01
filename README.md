@@ -392,6 +392,8 @@
 
 > [东南大学招生信息](https://yzb.seu.edu.cn/2025/0625/c6676a534395/page.htm)
 
+【报名截止：9.4 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0830/c19887a537788/page.htm)
+
 ~~【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)~~
 
 ~~【报名截止：8.10 20：00】[统计与数据科学学院](https://stat.seu.edu.cn/2025/0708/c60842a535073/page.htm)~~
@@ -476,13 +478,17 @@
 
 ## 华东师范大学
 
-> [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)
+> [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)|[华东师范大学推免](https://yjszs.ecnu.edu.cn/e2/79/c43463a713337/page.htm)
 
 ~~【报名截止：7.1 17：00】[药学院](https://pharm.ecnu.edu.cn/b0/56/c43776a700502/page.htm)~~
 
 ~~【报名截止：6.17】[通信与电子工程学院（集成电路科学与工程学院）](http://www.cee.ecnu.edu.cn/ae/1d/c4170a699933/page.htm)~~
 
 ## 同济大学
+
+>【报名截止：9.19】[同济大学推免报名](https://yz.tongji.edu.cn/info/1010/3998.htm)
+
+【报名截止：9.5 12：00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5184.htm)
 
 ~~【报名截止：6.23 12：00】[中意工程创新学院](https://see.tongji.edu.cn/info/1147/14001.htm)~~
 
@@ -707,6 +713,8 @@
 【报名截止：9.14】[山西煤炭化学研究所](https://edu.sxicc.ac.cn/zsgl/sszs/202508/t20250829_678817.html)
 
 【报名截止：9.10】[理化技术研究所](https://ipc.cas.cn/yjsjy2019/zsxx/202508/t20250811_7903303.html)
+
+【报名截止：9.4 12：00】[计算所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html)
 
 ~~【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)~~
 
