@@ -192,7 +192,11 @@
 
 【报名截止：9.28】[科学岛分院](https://hf.cas.cn/sbpy/yjsc/zs/sszs/202508/t20250826_7915317.html)
 
+【报名截止：9.19 12:00】[卓越工程师学院（先进技术研究院）](https://iat.ustc.edu.cn/iat/x198/20250903/7571.html)
+
 【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/_y8pplCy6hgSvJpf0bqxDA)
+
+【报名截止：9.15】[自动化系](https://auto.ustc.edu.cn/2025/0903/c26085a698276/page.htm)
 
 ~~【报名截止：6.30】[国家示范性微电子学院院](https://sme.ustc.edu.cn/2025/0620/c31027a688250/page.htm)~~
 
@@ -884,9 +888,9 @@
 
 【报名截止：9.19】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/13647.htm)
 
-【报名截止：9.19 12：00】[广研院-卓越工程师学院粤港澳大湾区基地](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
-
 【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
+
+【报名截止：9.15 12:00】[广研院-卓越工程师学院粤港澳大湾区基地-更改报名时间](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
 ## 北京交通大学
 
@@ -1034,6 +1038,8 @@
 
 > 【报名截止：9.19 9：00】[华东理工大学推免招生信息](https://gschool.ecust.edu.cn/2025/0826/c12708a181610/page.htm)
 
+【报名截止：9.19 9：00】[卓越工程师学院](https://mp.weixin.qq.com/s/jXOYmZvAz0sttONiy8a6wg)
+
 ~~【报名截止：7.4 12：00】[卓越工程师学院](https://mp.weixin.qq.com/s/i2gZZwALYl33Cl2IIMa6Eg)~~
 
 ~~【报名截止：6.30】[机械与动力工程学院](https://mech.ecust.edu.cn/2025/0619/c10994a179973/page.htm)~~
@@ -1159,6 +1165,8 @@
 ## 东华大学
 
 >【报名截止：9.22】 [东华大学招生信息](https://yjszs.dhu.edu.cn/2025/0829/c7127a364605/page.htm)
+
+【报名截止：9.22】 [机械工程学院](https://meccol.dhu.edu.cn/2025/0903/c21665a364719/page.htm)
 
 ~~【报名截止：7.7 16:00】[环境科学与工程学院](https://env.dhu.edu.cn/2025/0630/c19495a363418/page.htm)~~
 
