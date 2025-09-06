@@ -632,6 +632,8 @@
 
 > [四川大学推免招生信息](https://yz.scu.edu.cn/zsxx/Details/14ae5448-c2fc-4da6-9dd7-a525716a28d1)
 
+【报名截止：9.9 18：00】[机械工程学院](https://msec.scu.edu.cn/info/1091/6507.htm)
+
 ~~【报名截止：6.30 12：00】[碳中和未来技术学院](https://ccnft.scu.edu.cn/info/1033/2284.htm)~~
 
 ~~【报名截止：6.27】[水利水电学院](https://cwrh.scu.edu.cn/info/1084/5167.htm)~~
@@ -647,6 +649,8 @@
 > [湖南大学招生信息-7月25日开始报名](https://gra.hnu.edu.cn/info/1075/10189.htmtm)
 
 【报名截止：N/A】[国家卓越工程师学院](https://ngcee.hnu.edu.cn/info/1083/3067.htm)
+
+【报名截止：9.7 12：00】[物理与微电子科学学院](https://mp.weixin.qq.com/s/WmgQmd2mSArxV3DN_aImTQ?click_id=12)
 
 ## 东北大学
 
@@ -870,6 +874,8 @@
 
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/6496.htm)
 
+【报名截止：9.14】[工程科学学院](https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2702-2026)
+
 ~~【报名截止：7.6】[光电学院](https://oe.ucas.ac.cn/index.php/zh/tongzhi/574-2025-06-24-08-52-40)~~
 
 ~~【报名截止：6.30】[集成电路学院](https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/536-2025-7)~~
@@ -900,7 +906,7 @@
 
 【报名截止：9.19】[空间科学与技术学院](https://sast.xidian.edu.cn/info/1014/13647.htm)
 
-【报名截止：9.19 12：00】[杭研院-卓越工程师学院长三角基地](https://hz.xidian.edu.cn/info/1009/20144.htm)
+【报名截止：9.15 12:00】[杭研院-卓越工程师学院长三角基地-更改时间](https://hz.xidian.edu.cn/info/1009/20144.htm)
 
 【报名截止：9.15 12:00】[广研院-卓越工程师学院粤港澳大湾区基地-更改报名时间](https://gzyjy.xidian.edu.cn/info/1009/19512.htm)
 
