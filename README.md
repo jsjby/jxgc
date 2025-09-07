@@ -6,7 +6,7 @@
 ## 清华大学
 
 > 【报名截止：7.28 12:00】[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|> [清华大学博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/053a7602-4d2d-4aee-bde4-13cf9a44846d)|
-> [清华大学工程硕博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/3d7b9add-9a4f-423b-8b8e-e91957ab5b1e)|[深圳国际研究生院招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/029b0906-7314-4b89-8e6a-56fd3de3f55a?yxsdm=599)|[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3038.htm)|[清华大学国优计划](https://mp.weixin.qq.com/s/bnoQrnXqEni09G03MXy3yw)
+> [清华大学工程硕博士招生信息](https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/3d7b9add-9a4f-423b-8b8e-e91957ab5b1e)|[深圳国际研究生院招生信息](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/029b0906-7314-4b89-8e6a-56fd3de3f55a?yxsdm=599)|[清华大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3038.htm)|[清华大学国优计划](https://mp.weixin.qq.com/s/bnoQrnXqEni09G03MXy3yw)| [清华大学工程硕博士培养改革专项](https://yzbm.tsinghua.edu.cn/publish/s01/s0101/detail/db327fc7-9170-4e81-8f8f-b4a7247a9625)
 
 【报名截止：N/A】[统计与数据科学系](https://mp.weixin.qq.com/s/DTXHL2oZuLt7jid-5HaB_Q)
 
@@ -77,6 +77,8 @@
 【报名截止：N/A】[人工智能与微结构实验室 ](https://mp.weixin.qq.com/s/oGoMc1WJAaLqChqgiLXitA)
 
 【报名截止：9.16】[宁波东方理工大学](https://mp.weixin.qq.com/s/TwQ0AXF7lS2_tFGP_JVqUg)
+
+【报名截止：9.12 11:00】[船舶海洋与建筑工程学院](https://naoce.sjtu.edu.cn/bsznyjszsgz/14820.html)
 
 ~~【报名截止：8.24】[董浩云智能制造与服务管理研究院](http://www.sugli.sjtu.edu.cn/stu_info/3032.html)~~
 
@@ -202,6 +204,8 @@
 
 【报名截止：9.15】[自动化系](https://auto.ustc.edu.cn/2025/0903/c26085a698276/page.htm)
 
+【报名截止：9.11】[材料科学与工程学院](https://gs.imr.ac.cn/tzgg/202509/t20250905_755616.html)
+
 ~~【报名截止：6.30】[国家示范性微电子学院院](https://sme.ustc.edu.cn/2025/0620/c31027a688250/page.htm)~~
 
 ~~【报名截止：6.30>】[科学岛分院](https://www.hf.cas.cn/sbpy/yjsc/zs/dxsxly/202506/t20250619_7872437.html)~~
@@ -326,6 +330,8 @@
 
 ## 北京航空航天大学
 
+【报名截止：9.13 8:00】[自动化科学与电气工程学院](https://dept3.buaa.edu.cn/info/1066/7217.htm)
+
 ~~【报名截止：7.4】[大科学装置研究院](https://piqs.buaa.edu.cn/info/1038/2512.htm)~~
 
 ~~【报名截止：7.4】[航空发动机研究院](https://riae.buaa.edu.cn/info/1109/5685.htm)~~
@@ -346,9 +352,13 @@
 
 ## 北京理工大学
 
-> 【报名截止：7.14】[北京理工大学（珠海）](https://grd.bitzh.edu.cn/zsgz/ssyjs/e21931ecc5854e2288945b34a9cc9694.htm)|[北京理工大学推免招生](https://grd.bit.edu.cn/zsgz/ssyjs/gzzd_ss/1f63040825294e62b5cc2889b5ef49e5.htm)
+> 【报名截止：7.14】[北京理工大学（珠海）](https://grd.bitzh.edu.cn/zsgz/ssyjs/e21931ecc5854e2288945b34a9cc9694.htm)|[北京理工大学推免招生](https://grd.bit.edu.cn/zsgz/ssyjs/gzzd_ss/1f63040825294e62b5cc2889b5ef49e5.htm)|【报名截止：9.9】[北京理工大学(珠海)](https://zh.bit.edu.cn/info/2871/20321.htm)
 
 【报名截止：9.15 12：00】[空天科学与技术学院](https://sae.bit.edu.cn/tzgggb/78bbcdb1fb9e45c5ae70ca85776b9fab.htm)
+
+【报名截止：9.12 12:00】[机械与车辆学院](https://me.bit.edu.cn/tzgg/359768f9aee64cbeaf0d88f8915fbff6.htm)
+
+【报名截止：9.11 11:00】[先进结构技术研究院](https://xjjg.bit.edu.cn/tzgg/3fd615ab963e443a966faf6e9f73c1b1.htm)
 
 ~~【报名截止：7.17 23：00】[空天科学与技术学院航空宇航科技](https://sae.bit.edu.cn/tzgggb/a13dad4675664a82b254fdd466944384.htm)~~
 
@@ -362,11 +372,13 @@
 
 ## 天津大学
 
-> [天津大学招生信息](https://yzb.tju.edu.cn/xwzx/tkss_xw/202506/t20250627_324320.htm)|【报名截止：9.10】[天津大学招生信息](https://yzb.tju.edu.cn/xwzx/zxxx/202506/t20250630_324321.htm)|[天津大学推免信息](https://yzb.tju.edu.cn/xwzx/tkss_xw/202509/t20250904_324363.htm)
+> [天津大学招生信息](https://yzb.tju.edu.cn/xwzx/tkss_xw/202506/t20250627_324320.htm)|【报名截止：9.10】[天津大学招生信息](https://yzb.tju.edu.cn/xwzx/zxxx/202506/t20250630_324321.htm)|[天津大学推免信息](https://yzb.tju.edu.cn/xwzx/tkss_xw/202509/t20250904_324363.htm)|【报名截止：9.22 12:00】[天津大学推免信息-直博生](https://yzb.tju.edu.cn/xwzx/tkbs_xw/202509/t20250905_324369.htm)
 
 【报名截止：N/A】[医疗机器人与智能系统研究院](https://imris.tju.edu.cn/info/1012/2022.htm)
 
 【报名截止：9.10】[储能科学与工程研究院](https://mp.weixin.qq.com/s/T59P-gnlg0V8ZlD4jt6Jbg)
+
+【报名截止：9.10】[电气自动化与信息工程学院](https://seea.tju.edu.cn/info/1031/6013.htm)
 
 ~~【报名截止：8.20】[福州国际联合学院-导师团](https://fz.tju.edu.cn/info/1029/1944.htm)~~
 
@@ -391,6 +403,10 @@
 ## 武汉大学
 
 【报名截止：N/A】[机器人学院](https://mp.weixin.qq.com/s/47-48A2FNH0cNRLT7dvXvA)
+
+【报名截止：9.10】[动力与机械学院](https://pmc.whu.edu.cn/info/1089/165491.htm)
+
+【报名截止：9.10 14:00】[计算机学院](https://cs.whu.edu.cn/info/1071/55981.htm)
 
 ~~【报名截止：7.1】[水利水电学院](https://swrh.whu.edu.cn/info/1041/103171.htm)~~
 
@@ -446,6 +462,8 @@
 
 > [国防科技大学招生信息](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14495)|[国防科技大学招生人数](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14513)
 
+【报名截止：9.9】[空天科学学院第三批](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14615)
+
 ~~【报名截止：7.12】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14520)~~
 
 ~~【报名截止：7.8 19：00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14508)~~
@@ -455,6 +473,8 @@
 ## 西北工业大学
 
 > [西北工业大学招生信息](https://yzb.nwpu.edu.cn/info/1174/9868.htm)|【报名截止：9.20 18：00】[西北工业大学推免信息](https://yzb.nwpu.edu.cn/info/1174/9898.htm)
+
+【报名截止：9.17】[力学与交通运载工程学院](https://liuyuan.nwpu.edu.cn/info/1024/15804.htm)
 
 ~~【报名截止：7.6 21：00】[力学与交通运载工程学院](https://liuyuan.nwpu.edu.cn/info/1024/15554.htm)~~
 
@@ -588,6 +608,8 @@
 
 【报名截止：9.10】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1392.htm)
 
+【报名截止：9.9 20:00】[自动化学院](https://soa.csu.edu.cn/info/1032/9027.htm)
+
 【报名截止：9.8 12：00】[航空航天技术研究院](https://saa.csu.edu.cn/info/1016/3525.htm)
 
 【报名截止：9.8 12：00】[机电工程学院](https://cmee.csu.edu.cn/info/1022/6815.htm)
@@ -619,6 +641,8 @@
 ## 重庆大学
 
 > 【报名截止：9.30 18：00】[重庆大学招生信息](https://yz.cqu.edu.cn/news/2025-07/2357.html)
+
+【报名截止：9.12 11:30】[能源与动力工程学院](https://cte.cqu.edu.cn/info/1336/9045.htm)
 
 ~~【报名截止：8.15】[生物工程学院](https://bio.cqu.edu.cn/info/1305/6424.htm)~~
 
@@ -668,6 +692,8 @@
 
 【报名截止：N/A】[国家卓越工程师学院](https://ngcee.hnu.edu.cn/info/1083/3067.htm)
 
+【报名截止：9.14】[设计艺术学院](https://design.hnu.edu.cn/info/1031/8848.htm)
+
 【报名截止：9.7 12：00】[物理与微电子科学学院](https://mp.weixin.qq.com/s/WmgQmd2mSArxV3DN_aImTQ?click_id=12)
 
 ## 东北大学
@@ -693,6 +719,8 @@
 【报名截止：9.14 17：00】[未来技术学院](https://sft.sdu.edu.cn/info/1018/1787.htm)
 
 【报名截止：9.12 17：00】[控制科学与工程学院](https://control.sdu.edu.cn/info/1018/7669.htm)
+
+【报名截止：9.8 12:00】[机械工程学院](https://www.mech.sdu.edu.cn/info/1097/137955.htm)
 
 ~~【报名截止：7.4 17：00】[齐鲁交通学院 ](https://www.qltrans.sdu.edu.cn/info/1112/5175.htm)~~
 
