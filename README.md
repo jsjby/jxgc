@@ -254,7 +254,7 @@
 
 【报名截止：9.10】[航天学院-控制科学与工程学科](https://sa.hit.edu.cn/2025/0708/c6582a373311/page.htm)
 
-【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)
+~~【报名截止：9.5 18：00】[交通科学与工程学院](https://jtxy.hit.edu.cn/2025/0703/c6085a373120/page.htm)~~
 
 ~~【报名截止：8.30】[电气工程及自动化学院](https://hitee.hit.edu.cn/2025/0704/c17101a373174/page.htm)~~
 
@@ -398,9 +398,9 @@
 
 ## 厦门大学
 
-【报名截止：9.5】[能源学院](https://energy.xmu.edu.cn/info/1082/17279.htm)
+~~【报名截止：9.5】[能源学院](https://energy.xmu.edu.cn/info/1082/17279.htm)~~
 
-【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)
+~~【报名截止：9.5 17：30】[萨本栋微米纳米科学技术研究院](https://sbd.xmu.edu.cn/info/1468/11420.htm)~~
 
 ~~【报名截止：8.15】[航空航天学院](https://aerospace.xmu.edu.cn/info/2723/60464.htm)~~
 
@@ -414,9 +414,9 @@
 
 【报名截止：9.8 12：00】[蒙纳士大学苏州联合研究生院-能源与环境学院](https://smjgs.seu.edu.cn/2025/0831/c8471a537808/page.htm)
 
-【报名截止：9.4 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0830/c19887a537788/page.htm)
+~~【报名截止：9.4 12：00】[土木工程学院](https://civil.seu.edu.cn/2025/0830/c19887a537788/page.htm)~~
 
-【报名截止：9.4 12：00】[材料科学与工程学院](https://smse.seu.edu.cn/2025/0901/c54244a537944/page.htm)
+~~【报名截止：9.4 12：00】[材料科学与工程学院](https://smse.seu.edu.cn/2025/0901/c54244a537944/page.htm)~~
 
 ~~【报名截止：8.11 12：00】[电子科学与工程学院](https://electronic.seu.edu.cn/2025/0630/c11484a534664/page.htm)~~
 
@@ -524,7 +524,7 @@
 
 【报名截止：9.8 14：00】[汽车学院](https://auto.tongji.edu.cn/info/1013/11271.htm)
 
-【报名截止：9.5 12：00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5184.htm)
+~~【报名截止：9.5 12：00】[机械与能源工程学院](https://mefaculty.tongji.edu.cn/info/1023/5184.htm)~~
 
 ~~【报名截止：6.23 12：00】[中意工程创新学院](https://see.tongji.edu.cn/info/1147/14001.htm)~~
 
@@ -552,7 +552,7 @@
 
 【报名截止：9.9】[生物医学工程学院](https://bme.sysu.edu.cn/noticezs/1419683.htm)
 
-【报名截止：9.5 12：00】[先进制造学院](https://mp.weixin.qq.com/s/rpBo4f8ADj4UxquGux6VIQ?scene=1&click_id=13)
+~~【报名截止：9.5 12：00】[先进制造学院](https://mp.weixin.qq.com/s/rpBo4f8ADj4UxquGux6VIQ?scene=1&click_id=13)~~
 
 ~~【报名截止：8.28 12：00】[中法核工程与技术学院](https://ifcen.sysu.edu.cn/article/1490)~~
 
@@ -788,7 +788,7 @@
 
 【报名截止：9.10】[理化技术研究所](https://ipc.cas.cn/yjsjy2019/zsxx/202508/t20250811_7903303.html)
 
-【报名截止：9.4 12：00】[计算所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html)
+~~【报名截止：9.4 12：00】[计算所](https://www.ict.ac.cn/yjsjy/zsxx/sszs/202508/t20250829_7946055.html)~~
 
 ~~【报名截止：8.18】[自动化研究所](https://ia.cas.cn/yjsjy/zs/sszs/202507/t20250731_7899790.html)~~
 
