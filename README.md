@@ -368,13 +368,21 @@
 
 ## 中国人民大学
 
-> 【报名截止：7.20 17：00】[中国人民大学招生信息](https://pgs.ruc.edu.cn/info/1062/3447.htm)
+> 【报名截止：7.20 17：00】[中国人民大学招生信息](https://pgs.ruc.edu.cn/info/1062/3447.htm)|[中国人民大学推免信息](https://pgs.ruc.edu.cn/info/1062/3473.htm)
 
 ## 北京航空航天大学
 
 >[北京航空航天大学推免信息](https://yzb.buaa.edu.cn/info/1036/3391.htm)
 
+【报名截止：9.16 23：00】[机械工程及自动化学院](https://physics.buaa.edu.cn/info/1252/4506.htm)
+
+【报名截止：9.16 10:00】[宇航学院](http://www.sa.buaa.edu.cn/info/1026/11504.htm)
+
+【报名截止：9.15 18：00】[生物与医学工程学院](https://bme.buaa.edu.cn/newsInfo.aspx?catID=13&subcatID=1014&curID=14663)
+
 【报名截止：9.15 18：00】[无人系统研究院](https://wrj.buaa.edu.cn/info/1008/2659.htm)
+
+【报名截止：9.15 17：00】[能源与动力工程学院](https://sepe.buaa.edu.cn/info/1104/8190.htm)
 
 【报名截止：9.13 8:00】[自动化科学与电气工程学院](https://dept3.buaa.edu.cn/info/1066/7217.htm)
 
@@ -600,7 +608,7 @@
 
 ## 华东师范大学
 
-> [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)|[华东师范大学推免](https://yjszs.ecnu.edu.cn/e2/79/c43463a713337/page.htm)
+> [华东师范大学招生信息](https://mp.weixin.qq.com/s/3pqoLLU6PzuIedjVncBN0w)|[华东师范大学推免](https://yjszs.ecnu.edu.cn/e2/79/c43463a713337/page.htm)|[华东师范大学推免信息](https://yjszs.ecnu.edu.cn/ea/20/c43463a715296/page.htm)
 
 【报名截止：9.14 17：00】[药学院](https://pharm.ecnu.edu.cn/e3/64/c43776a713572/page.htm)
 
@@ -684,6 +692,8 @@
 
 【报名截止：9.12 17：00】[交通运输工程学院](https://stte.csu.edu.cn/info/1064/8588.htm)
 
+【报名截止：9.11】[能源科学与工程学院](https://energy.csu.edu.cn/info/1101/3920.htm)
+
 ~~【报名截止：9.10】[冶金与环境学院](https://smse.csu.edu.cn/info/1011/6393.htm)~~
 
 ~~【报名截止：9.10】[国家卓越工程师学院](https://ngce.csu.edu.cn/info/1015/1392.htm)~~
@@ -739,6 +749,10 @@
 ~~【报名截止：7.4 12：00】[航空航天学院](https://ae.cqu.edu.cn/info/1313/8416.htm)~~
 
 ## 吉林大学
+
+>[吉林大学推免信息](https://zsb.jlu.edu.cn/info/3173.html)
+
+【报名截止：9.17 9:00】[汽车工程学院](https://auto.jlu.edu.cn/info/1256/8232.htm)
 
 【报名截止：9.15 10：00】[仪器科学与电气工程学院](https://ciee.jlu.edu.cn/info/1082/15072.htm)
 
@@ -887,6 +901,8 @@
 > 【报名截止：9.14】[中国海洋大学招生信息](https://yz.ouc.edu.cn/2025/0718/c31626a503423/page.htm)
 
 ## 中国科学院
+
+【报名截止：N/A】[过程工程研究所](http://edu.ipe.ac.cn/zsxx/202509/t20250910_768529.html)
 
 【报名截止：N/A】[沈阳自动化研究所-第一批复试的时间9月11日，第二批复试的时间9月18日](https://sia.cas.cn/zpjy/yjsjy/zs/zsgg/202509/t20250901_7948380.html)
 
@@ -1064,6 +1080,8 @@
 
 【报名截止：N/A】[机电工程学院](https://eme.xidian.edu.cn/info/1012/12626.htm)
 
+【报名截止：N/A】[机电工程学院-9月17日之前完成复试](https://eme.xidian.edu.cn/info/1012/12896.htm)
+
 【报名截止：9.25 18：00】[先进材料与纳米科技学院](https://amn.xidian.edu.cn/info/1013/14972.htm)
 
 【报名截止：9.20】[信息力学与感知工程学院](https://imse.xidian.edu.cn/info/1024/3401.htm)
@@ -1095,6 +1113,10 @@
 ## 北京科技大学
 
 > [北京科技大学招生信息](https://yz.tsinghua.edu.cn/info/1024/3009.htm)|[北京科技大学推免招生信息](https://yzxc.ustb.edu.cn/xlytm/hdap/8da9fa228a654def926a2326b86ca899.htm)
+
+【报名截止：9.14】[前沿交叉科学技术研究院](https://qy.ustb.edu.cn/tzgg/07dadf11b9ab4cf3b68a4796a4393128.htm)
+
+【报名截止：9.14】[机械工程学院](https://me.ustb.edu.cn/tongzhigonggao/2025-09-10/2570.html)
 
 【报名截止：9.12 14:00】[钢铁共性技术协同创新中心-第二轮](https://cicst.ustb.edu.cn/tzgg1/55027b76fc7c408c876e976b06f0b7d3.htm)
 
@@ -1246,7 +1268,15 @@
 
 ## 华北电力大学
 
->[华北电力大学(保定)推免信息](https://gs.ncepu.edu.cn/zsxx/tjms/d124daed296d4de0a2fb2c5908e76106.htm)|[华北电力大学推免信息](https://yjsy.ncepu.edu.cn/zsxx/sszsxx/5af514caab5e4ce8b922fc575a6c1d66.htm)
+>[华北电力大学(保定)推免信息](https://gs.ncepu.edu.cn/zsxx/tjms/d124daed296d4de0a2fb2c5908e76106.htm)|[华北电力大学推免信息](https://yjsy.ncepu.edu.cn/zsxx/sszsxx/5af514caab5e4ce8b922fc575a6c1d66.htm)|[华北电力大学招生专业目录](https://yjsy.ncepu.edu.cn/zsxx/sszsxx/2b7ccc9e90634041b78be4fe215bb6a7.htm)
+
+【报名截止：9.16 12:00】[新能源学院](https://xnyxy.ncepu.edu.cn/zspy/db1566b852e8408d90f17596a7bd53b3.htm)
+
+【报名截止：9.15 9:00】[能源动力与机械工程学院](https://thermal.ncepu.edu.cn/zspy/yjszspy/46c6e70f44074e58988558a29b42a64a.htm)
+
+【报名截止：9.15 8:00】[动力工程系](https://pe.ncepu.edu.cn/xwzx/tzgg/4a267160465c4ba7969c8bc49987a5c2.htm)
+
+【报名截止：9.14 17:00】[自动化系(保定)](https://zdh.ncepu.edu.cn/tztg/37cbc899bd1b4f889677062adfe440b4.htm)
 
 【报名截止：9.13 18：00】[机械工程系(保定)](https://dme.ncepu.edu.cn/gg/e4d04d613b664e55b29d31284c1f1d9f.htm)
 
@@ -1275,6 +1305,10 @@
 >【报名截止：9.21】[北京化工大学推免信息](https://graduate.buct.edu.cn/2025/0905/c1392a210387/page.htm)|[北京化工大学各学院推免信息](https://graduate.buct.edu.cn/2025/0907/c1392a210401/page.htm)
 
 【报名截止：9.15】[机电工程学院](https://graduate.buct.edu.cn/2025/0907/c1392a210401/page.htm)
+
+## 北京工业大学
+
+>[北京工业大学推免信息](https://yanzhao.bjut.edu.cn/info/1019/17801.htm)
 
 ## 北京信息科技大学
 
@@ -1414,6 +1448,8 @@
 
 ## 上海大学
 
+【报名截止：9.20 16:00】[上海大学推免信息](https://mp.weixin.qq.com/s/UUHT9naLSN-mbtOffA2h9A)
+
 【报名截止：N/A】[无人艇工程研究院](https://jhai.shu.edu.cn/info/1042/1757.htm)
 
 ~~【报名截止：8.20】[微电子学院](https://sme.shu.edu.cn/info/1030/6062.htm)~~
@@ -1430,21 +1466,23 @@
 
 ~~【报名截止：7.1】[食品学院](https://mp.weixin.qq.com/s/-48kdPphxDxUpYOPAv2obQ)~~
 
+## 广东工业大学
+
+>【报名截止：9.18】[广东工业大学推免信息](https://yzw.gdut.edu.cn/info/1135/8125.htm)
+
+【报名截止：9.18】[自动化学院](https://automation.gdut.edu.cn/info/1081/10356.htm)
+
 ## 三峡大学
 
 ~~【报名截止：6.23】[电气与新能源学院](https://newee.ctgu.edu.cn/info/1073/28132.htm)~~
 
-## 北京林业大学
-
-~~【报名截止：7.1】[材料学院](https://clxy.bjfu.edu.cn/rcpy/5ae22892a28740069703d98239c3da69.html)~~
-
-## 北京化工大学
-
-~~【报名截止：7.7】[机电工程学院](https://mp.weixin.qq.com/s/nGMr9GVPuGODRL4alk42qQ)~~
-
 ## 南京师范大学
 
 > 【报名截止：9.25】[南京师范大学招生信息](https://yjszs.njnu.edu.cn/info/1073/16212.htm)
+
+【报名截止：9.20】[能源与机械工程学院](http://energy.njnu.edu.cn/info/1047/34101.htm)
+
+【报名截止：9.15】[南瑞电气与自动化学院](https://eae.njnu.edu.cn/info/1044/9003.htm)
 
 ~~【报名截止：6.30】[南瑞电气与自动化学院](https://eae.njnu.edu.cn/info/1041/8663.htm)~~
 
@@ -1474,9 +1512,15 @@
 
 ## 西南交通大学
 
+【报名截止：9.18 23:00】[机械工程学院](https://sme.swjtu.edu.cn/info/1098/60341.htm)
+
 ~~【报名截止：7.4】[信息科学与技术学院](https://mp.weixin.qq.com/s/qQRNGS_ZJ6HXBFMfJzUHKA)~~
 
 ~~【报名截止：6.26】[机械工程学院](https://sme.swjtu.edu.cn/info/1098/58751.htm)~~
+
+## 西安邮电大学
+
+>[西安邮电大学推免信息](https://gr.xupt.edu.cn/info/1173/9014.htm)
 
 ## 西南大学
 
@@ -1539,6 +1583,8 @@
 【报名截止：N/A】[汽车学院-8月11日报名](https://mp.weixin.qq.com/s/M7a1A2J5rPsWYrSAy7uprg?scene=1&click_id=4)
 
 【报名截止：N/A】[能源与电气工程学院](https://ndxy.chd.edu.cn/info/1068/2996.htm)
+
+【报名截止：9.13 12:00】[能源与电气工程学院](https://ndxy.chd.edu.cn/info/1068/3086.htm)
 
 ## 江南大学
 
@@ -1646,6 +1692,10 @@
 
 【报名截止：N/A】[南通大学推免信息](https://yjszs.ntu.edu.cn/2025/0909/c7625a272390/page.htm)
 
+## 辽宁工程技术大学
+
+【报名截止：N/A】[卓越工程师学院](https://yjsy.lntu.edu.cn/info/1132/3678.htm)
+
 ## 青海大学
 
 【报名截止：N/A】[青海大学推免信息](https://yjs.qhu.edu.cn/tzgg1/53e523dbc1f54f83be8ec79efe488931.htm)
@@ -1653,6 +1703,10 @@
 ## 石河子大学
 
 【报名截止：N/A】[机械电气工程学院](https://jdxy.shzu.edu.cn/2025/0905/c9813a223275/page.htm)
+
+## 宁波工程学院
+
+【报名截止：N/A】[宁波工程学院](https://graduate.nbut.edu.cn/info/1114/1739.htm)
 
 ## 首都体育学院
 
