@@ -1453,6 +1453,8 @@
 
 > [中国地质大学招生信息](https://yz.cug.edu.cn/page/detail/PVKZRL/697/63577)
 
+【报名截止：9.19 12：00】[(武汉)自动化学院](https://au.cug.edu.cn/info/1028/12084.htm)
+
 ~~【报名截止：9.16 12：00】[(北京)能源学院](https://bm.cugb.edu.cn/yjsyzsb/c/2025-09-10/831788.shtml)~~
 
 ~~【报名截止：7.3】[（北京）数理学院 ](https://ss.cugb.edu.cn/c/2025-06-17/828661.shtml)~~
@@ -1723,6 +1725,10 @@
 
 ## 武汉理工大学
 
+【报名截止：N/A】[自动化学院](http://sa.whut.edu.cn/yjspy/zsxx/202509/t20250916_618388.shtml)
+
+【报名截止：9.21】[机电工程学院](http://smee.whut.edu.cn/tzgg/yggg/202509/t20250916_1349192.shtml)
+
 【报名截止：9.17 17：00】[交通与物流工程学院](https://stle.whut.edu.cn/yjsjx/zsxx/202509/t20250915_1349056.shtml)
 
 【报名截止：9.17 12：00】[国家卓越工程师学院](https://mp.weixin.qq.com/s/8z1JhqTeqJGcYUtUfQpeMw)
@@ -1734,6 +1740,10 @@
 ~~【报名截止：6.28】[交通与物流工程学院](https://stle.whut.edu.cn/yjsjx/zsxx/202506/t20250624_1334271.shtml)~~
 
 ~~【报名截止：6.23】[船海与能源动力工程学院](https://naoep.whut.edu.cn/zsjy/yjszs/202506/t20250620_1333939.shtml)~~
+
+## 四川农业大学
+
+【报名截止：N/A】[机电学院](https://jdxy.sicau.edu.cn/info/1033/3842.htm)
 
 ## 山东科技大学
 
@@ -1818,6 +1828,20 @@
 ## 石河子大学
 
 【报名截止：N/A】[机械电气工程学院](https://jdxy.shzu.edu.cn/2025/0905/c9813a223275/page.htm)
+
+## 沈阳航空航天大学
+
+>【报名截止：N/A】[沈阳航空航天大学推免信息](https://yjs.sau.edu.cn/info/1021/1724.htm)
+
+【报名截止：N/A】[自动化学院](https://yjs.sau.edu.cn/info/1021/1731.htm)
+
+【报名截止：N/A】[低空经济学院](https://yjs.sau.edu.cn/info/1021/1738.htm)
+
+【报名截止：N/A】[机电工程学院](https://yjs.sau.edu.cn/info/1021/1741.htm)
+
+【报名截止：N/A】[航空发动机学院](https://yjs.sau.edu.cn/info/1021/1729.htm)
+
+【报名截止：N/A】[航空宇航学院](https://yjs.sau.edu.cn/info/1021/1728.htm)
 
 ## 宁波工程学院
 
