@@ -136,6 +136,8 @@
 
 ## 复旦大学
 
+>[复旦大学推免信息](https://gsao.fudan.edu.cn/68/02/c15015a747522/page.htm)
+
 ~~【报名截止：9.10 16：00】[智能机器人与先进制造创新学院](https://ciram.fudan.edu.cn/5c/e9/c48843a744681/page.htm)~~
 
 ~~【报名截止：7.31】[数字医学研究中心](https://miccai.fudan.edu.cn/44/f8/c34229a738552/page.htm)~~
@@ -1592,6 +1594,14 @@
 ~~【报名截止：9.14】[先进制造学院](https://jdgcxy.ncu.edu.cn/xwzx/tzgg/73f9c82ae04749bdb3f909ac9868ce3a.htm)~~
 
 ~~【报名截止：9.13】[资源与环境学院](https://zhxy.ncu.edu.cn/xtzgg/e9c5e00d71894083948c7dda88718f27.htm)~~
+
+## 南京工业大学
+
+>[南京工业大学推免信息](https://gra.njtech.edu.cn/zsw/info/1021/1581.htm)
+
+【报名截止：N/A】[机械与动力工程学院](https://gra.njtech.edu.cn/zsw/info/1021/1582.htm)
+
+【报名截止：N/A】[能源科学与工程学院](https://gra.njtech.edu.cn/zsw/info/1021/1582.htm)
 
 ## 湘潭大学
 
